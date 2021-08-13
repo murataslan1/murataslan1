@@ -36,3 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrtasln01&show_icons=true&locale=en" alt="mrtasln01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrtasln01&" alt="mrtasln01" /></p>
+
+<a href="https://gist.github.com/murataslan1" target="blank"><img align="center" src="http://www.dannyquah.com/writings/en/files/2020/05/GitHub-Gist-1024x279.png" alt="murataslan1" height="30" width="40" /></a>
