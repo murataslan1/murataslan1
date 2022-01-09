@@ -31,11 +31,16 @@
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murataslan1" alt="murataslan1" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrtasln01&show_icons=true&locale=en&layout=compact" alt="mrtasln01" /></p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrtasln01&show_icons=true&locale=en" alt="mrtasln01" /></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrtasln01&" alt="mrtasln01" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murataslan1&show_icons=true&locale=en&layout=compact" alt="murataslan1" /></p>
 
-<a href="https://gist.github.com/murataslan1" target="blank"><img align="center" src="http://www.dannyquah.com/writings/en/files/2020/05/GitHub-Gist-1024x279.png" alt="murataslan1" height="30" width="40" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murataslan1&show_icons=true&locale=en" alt="murataslan1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murataslan1&" alt="murataslan1" /></p>
