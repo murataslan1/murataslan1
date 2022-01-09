@@ -22,7 +22,8 @@
 <a href="https://twitter.com/iammurataslan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iammurataslan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/murataslan1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="murataslan1" height="30" width="40" /></a>
 <a href="https://instagram.com/mrtasln01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mrtasln01" height="30" width="40" /></a>
-<a href="https://medium.com/@murataslan1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@localhost3000" height="30" width="40" /></a>
+<a href="https://medium.com/@murataslan1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@murataslan1" height="30" width="40" /></a>
+<a href="https://replit.com/@murataslan11" target="blank"><img align="center" src="https://iconape.com/wp-content/png_logo_vector/repl-it.png" alt="@murataslan11" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
