@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/murataslan1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="murataslan1" height="30" width="40" /></a>
 <a href="https://instagram.com/mrtasln01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mrtasln01" height="30" width="40" /></a>
 <a href="https://medium.com/@murataslan1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@murataslan1" height="30" width="40" /></a>
-<a href="https://replit.com/@murataslan11" target="blank"><img align="center" src="https://iconape.com/wp-content/png_logo_vector/repl-it.png" alt="@murataslan11" height="30" width="40" /></a>
+<a href="https://replit.com/@murataslan11" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" alt="@murataslan11" height="30" width="40" /></a>
 </p>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/murataslan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="murataslan" /></a></p><br><br>
