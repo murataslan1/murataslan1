@@ -38,10 +38,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="left">Connect with me : </h3>
+<h3 align="left">Connect with me! : </h3>
 <p align="left">
 </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murataslan1&show_icons=true&locale=en&layout=compact" alt="murataslan1" /></p>
 
