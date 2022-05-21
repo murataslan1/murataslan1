@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Mersis](https://mersis.gtb.gov.tr/)
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Devops**
 
 - 💬 Ask me about **Anything**
 
