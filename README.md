@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **maslan.dev@gmail.com**
+- 📫 How to reach me **murataslan0.tr@gmail.com**
 
 - ⚡ Fun fact **researcher/developer**
 
