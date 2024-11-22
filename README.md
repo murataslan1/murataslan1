@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/iammurataslan" target="blank"><img src="https://img.shields.io/twitter/follow/iammurataslan?logo=twitter&style=for-the-badge" alt="iammurataslan" /></a> </p>
 
-- 🔭 I’m currently working on [Mersis](https://mersis.gtb.gov.tr/)
+- 🔭 I’m currently work with [Copilot](https://github.com/features/copilot)
 
 - 🌱 I’m currently learning **Devops**
 
