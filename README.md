@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/40%2B%20PRs-December%202025-brightgreen?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20%7C%20Meta%20%7C%20Traefik-Contributor-blue?style=for-the-badge&logo=opensource&logoColor=white"/>
+  <img src="https://img.shields.io/badge/40%2B%20PRs-December%202025-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20%7C%20Meta%20%7C%20Traefik-Contributor-blue?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -15,11 +15,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/PRs%20This%20Month-40%2B-brightgreen?style=for-the-badge&logo=github" alt="PRs"/>
-  <img src="https://img.shields.io/badge/Active%20Projects-15%2B-blue?style=for-the-badge&logo=opensource" alt="Projects"/>
+  <img src="https://img.shields.io/badge/Active%20Projects-15%2B-blue?style=for-the-badge&logo=github" alt="Projects"/>
   <a href="https://github.com/murataslan1?tab=followers">
     <img src="https://img.shields.io/github/followers/murataslan1?label=Followers&style=for-the-badge&logo=github&color=purple" alt="GitHub Followers"/>
   </a>
-  <img src="https://img.shields.io/badge/Profile%20Views-1000%2B-blueviolet?style=for-the-badge&logo=eye" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Profile%20Views-1000%2B-blueviolet?style=for-the-badge&logo=github" alt="Profile Views"/>
 </p>
 
 ---
@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://github.com/murataslan1/cursor-ai-tips">
-    <img src="https://img.shields.io/badge/📚%20cursor--ai--tips-47%2B%20Stars-yellow?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/cursor--ai--tips-47%2B%20Stars-yellow?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
@@ -151,10 +151,10 @@
 ## 🏅 GitHub Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🌟%20Starstruck-Earned-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🦈%20Pull%20Shark-Earned-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/👯%20Pair%20Extraordinaire-Earned-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🎯%20YOLO-Earned-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Starstruck-Earned-yellow?style=for-the-badge&logo=star"/>
+  <img src="https://img.shields.io/badge/Pull%20Shark-Earned-blue?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Pair%20Extraordinaire-Earned-purple?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/YOLO-Earned-red?style=for-the-badge&logo=github"/>
 </p>
 
 ---
