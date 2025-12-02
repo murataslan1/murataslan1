@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Murat%20Aslan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Murat%20Aslan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&_v=2"/>
 
 <p align="center">
   <a href="https://github.com/murataslan1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=40%2B+PRs+in+December+2025+%7C+Open+Source+Contributor;Contributing+to+Microsoft%2C+Meta%2C+Traefik+%26+More;Full+Stack+Developer+%7C+DevOps+%7C+Cloud+Native" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=40%2B+PRs+in+December+2025+%7C+Open+Source+Contributor;Contributing+to+Microsoft%2C+Meta%2C+Traefik+%26+More;Full+Stack+Developer+%7C+DevOps+%7C+Cloud+Native" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,7 +12,7 @@
   <a href="https://github.com/murataslan1?tab=followers">
     <img src="https://img.shields.io/github/followers/murataslan1?label=Followers&style=for-the-badge&logo=github&color=purple" alt="GitHub Followers"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=murataslan1&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=murataslan1&style=for-the-badge&color=blueviolet&_v=2" alt="Profile Views"/>
 </p>
 
 ---
@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://github.com/murataslan1/cursor-ai-tips">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=murataslan1&repo=cursor-ai-tips&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=murataslan1&repo=cursor-ai-tips&theme=tokyonight&hide_border=true&_v=2" />
   </a>
 </p>
 
@@ -187,5 +187,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&_v=2"/>
 </p>
