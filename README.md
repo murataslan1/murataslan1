@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/40%2B%20PRs-December%202025-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20%7C%20Meta%20%7C%20Traefik-Contributor-blue?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/45%2B%20PRs-December%202025-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20%7C%20Meta%20%7C%20Traefik%20%7C%20Termux-Contributor-blue?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs%20This%20Month-40%2B-brightgreen?style=for-the-badge&logo=github" alt="PRs"/>
-  <img src="https://img.shields.io/badge/Active%20Projects-15%2B-blue?style=for-the-badge&logo=github" alt="Projects"/>
+  <img src="https://img.shields.io/badge/PRs%20This%20Month-45%2B-brightgreen?style=for-the-badge&logo=github" alt="PRs"/>
+  <img src="https://img.shields.io/badge/Active%20Projects-18%2B-blue?style=for-the-badge&logo=github" alt="Projects"/>
   <a href="https://github.com/murataslan1?tab=followers">
     <img src="https://img.shields.io/github/followers/murataslan1?label=Followers&style=for-the-badge&logo=github&color=purple" alt="GitHub Followers"/>
   </a>
@@ -28,12 +28,12 @@
 
 <p align="center">
   <a href="https://github.com/murataslan1/cursor-ai-tips">
-    <img src="https://img.shields.io/badge/cursor--ai--tips-47%2B%20Stars-yellow?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/cursor--ai--tips-108%2B%20Stars-yellow?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 <p align="center">
-  <b>⭐ 47+ Stars</b> — The Ultimate Cursor AI IDE Guide: Shortcuts, Composer, .cursorrules & Reddit Wisdom
+  <b>⭐ 108+ Stars</b> — The Ultimate Cursor AI IDE Guide: Shortcuts, Composer, .cursorrules & Reddit Wisdom
 </p>
 
 ---
@@ -53,7 +53,7 @@
 | [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 40k | 6 PRs (Arch Linux, MySQL, Git) | 🔥 |
 | [**traefik/traefik**](https://github.com/traefik/traefik) | 54k | Dashboard UI improvements | 🟢 |
 | [**perspective-dev/perspective**](https://github.com/perspective-dev/perspective) | 10k | Date formatting fix | 🆕 |
-| [**termux/termux-packages**](https://github.com/termux/termux-packages) | 15k | Package & linting scripts | 🟢 |
+| [**termux/termux-packages**](https://github.com/termux/termux-packages) | 15k | opustags pkg & linting | 🟢 |
 | [**jgraph/drawio-desktop**](https://github.com/jgraph/drawio-desktop) | 54k | Ubuntu icon & autoupdate | 🟢 |
 | [**SigNoz/signoz**](https://github.com/SigNoz/signoz) | 20k | UI/UX & linter config | 🟢 |
 
@@ -63,9 +63,9 @@
 ### 🏆 December Highlights
 
 ```diff
-+ 40+ Pull Requests
-+ 15+ Major Projects
-+ Microsoft, Meta, Traefik
++ 45+ Pull Requests
++ 18+ Major Projects
++ Microsoft, Meta, Traefik, Termux
 + Cloud Native & AI/ML Focus
 ```
 
@@ -93,7 +93,7 @@
 |---------|-----|-------|
 | [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 6 | Self-hosted PaaS |
 | [**traefik/traefik**](https://github.com/traefik/traefik) | 3 | Cloud Proxy |
-| [**termux/termux-packages**](https://github.com/termux/termux-packages) | 2 | Android Terminal |
+| [**termux/termux-packages**](https://github.com/termux/termux-packages) | 3 | Android Terminal |
 | [**serverless-dns**](https://github.com/serverless-dns/serverless-dns) | 2 | Edge DNS |
 | [**dotnet/aspire**](https://github.com/dotnet/aspire) | 1 | .NET Cloud Stack |
 
@@ -141,8 +141,8 @@
 
 <p align="center">
   <a href="https://github.com/murataslan1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murataslan1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=murataslan1&theme=tokyonight&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murataslan1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=7200"/>
+    <img height="180em" src="https://streak-stats.demolab.com/?user=murataslan1&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
