@@ -28,12 +28,12 @@
 
 <p align="center">
   <a href="https://github.com/murataslan1/cursor-ai-tips">
-    <img src="https://img.shields.io/badge/cursor--ai--tips-108%2B%20Stars-yellow?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/cursor--ai--tips-128%2B%20Stars-yellow?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 <p align="center">
-  <b>⭐ 108+ Stars</b> — The Ultimate Cursor AI IDE Guide: Shortcuts, Composer, .cursorrules & Reddit Wisdom
+  <b>⭐ 128+ Stars</b> — The Ultimate Cursor AI IDE Guide: Shortcuts, Composer, .cursorrules & Reddit Wisdom
 </p>
 
 ---
@@ -46,16 +46,16 @@
 
 ### 📌 Latest PRs to Major Projects
 
-| Project | ⭐ Stars | PR | Type |
-|---------|---------|-----|------|
+| Project | ⭐ Stars | PR | Status |
+|---------|---------|-----|--------|
+| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 40k | Arch Linux, Soju IRC | ✅ Merged |
+| [**traefik/traefik**](https://github.com/traefik/traefik) | 54k | ForwardAuth logging | ✅ Merged |
+| [**schollz/croc**](https://github.com/schollz/croc) | 29k | BusyBox compatibility | 🔄 Open |
+| [**OpenBB-finance/OpenBB**](https://github.com/OpenBB-finance/OpenBB) | 35k | yfinance fix | 🔄 Open |
 | [**dotnet/aspire**](https://github.com/dotnet/aspire) | 10.9k | UI consistency fix | 🆕 |
 | [**facebookresearch/faiss**](https://github.com/facebookresearch/faiss) | 33k | C API docs update | 🆕 |
-| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 40k | 6 PRs (Arch Linux, MySQL, Git) | 🔥 |
-| [**traefik/traefik**](https://github.com/traefik/traefik) | 54k | Dashboard UI improvements | 🟢 |
-| [**perspective-dev/perspective**](https://github.com/perspective-dev/perspective) | 10k | Date formatting fix | 🆕 |
 | [**termux/termux-packages**](https://github.com/termux/termux-packages) | 15k | opustags pkg & linting | 🟢 |
-| [**jgraph/drawio-desktop**](https://github.com/jgraph/drawio-desktop) | 54k | Ubuntu icon & autoupdate | 🟢 |
-| [**SigNoz/signoz**](https://github.com/SigNoz/signoz) | 20k | UI/UX & linter config | 🟢 |
+| [**milvus-io/milvus**](https://github.com/milvus-io/milvus) | 32k | 4 enhancement PRs | 🔄 Open |
 
 </td>
 <td width="40%">
@@ -63,9 +63,10 @@
 ### 🏆 December Highlights
 
 ```diff
-+ 45+ Pull Requests
-+ 18+ Major Projects
-+ Microsoft, Meta, Traefik, Termux
++ 50+ Pull Requests
++ 20+ Major Projects
++ 3 PRs Merged This Week!
++ Microsoft, Meta, Traefik, Coolify
 + Cloud Native & AI/ML Focus
 ```
 
@@ -89,10 +90,11 @@
 
 ### 🔧 DevOps & Cloud Native
 
-| Project | PRs | Focus |
-|---------|-----|-------|
-| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 6 | Self-hosted PaaS |
-| [**traefik/traefik**](https://github.com/traefik/traefik) | 3 | Cloud Proxy |
+| Project | PRs | Status |
+|---------|-----|--------|
+| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 8 | ✅ 2 Merged |
+| [**traefik/traefik**](https://github.com/traefik/traefik) | 3 | ✅ 1 Merged |
+| [**schollz/croc**](https://github.com/schollz/croc) | 1 | 🔄 Open |
 | [**termux/termux-packages**](https://github.com/termux/termux-packages) | 3 | Android Terminal |
 | [**serverless-dns**](https://github.com/serverless-dns/serverless-dns) | 2 | Edge DNS |
 | [**dotnet/aspire**](https://github.com/dotnet/aspire) | 1 | .NET Cloud Stack |
