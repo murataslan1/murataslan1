@@ -48,7 +48,8 @@
 
 | Project | ⭐ Stars | PR | Status |
 |---------|---------|-----|--------|
-| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 40k | Arch Linux, Soju IRC | ✅ Merged |
+| [**denoland/std**](https://github.com/denoland/std) | 3.5k | CSV parse, dedent fix | 🆕 Today |
+| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 40k | Docker, Unicode, IPv4/6 | 🆕 Today |
 | [**traefik/traefik**](https://github.com/traefik/traefik) | 54k | ForwardAuth logging | ✅ Merged |
 | [**schollz/croc**](https://github.com/schollz/croc) | 29k | BusyBox compatibility | 🔄 Open |
 | [**OpenBB-finance/OpenBB**](https://github.com/OpenBB-finance/OpenBB) | 35k | yfinance fix | 🔄 Open |
@@ -64,17 +65,22 @@
 
 ```diff
 + 50+ Pull Requests
-+ 20+ Major Projects
-+ 3 PRs Merged This Week!
-+ Microsoft, Meta, Traefik, Coolify
++ 22+ Major Projects  
++ 6 PRs Today! (Dec 24)
++ Microsoft, Meta, Deno, Coolify
 + Cloud Native & AI/ML Focus
 ```
+
+**🎄 Christmas Eve PRs:**
+- 🦕 **Deno std**: 2 PRs
+- 🧊 **Coolify**: 4 PRs
+- 🔥 **Total Today**: 6 PRs!
 
 **Categories:**
 - 🧠 **AI/ML**: FAISS, Milvus, Perspective
 - ☁️ **DevOps**: Coolify, Traefik, Termux
 - 🔒 **Security**: Nuclei, OpenVAS
-- 🛠️ **Tools**: Draw.io, Jujutsu, SigNoz
+- 🛠️ **Tools**: Deno, Draw.io, Jujutsu
 
 </td>
 </tr>
@@ -92,7 +98,8 @@
 
 | Project | PRs | Status |
 |---------|-----|--------|
-| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 8 | ✅ 2 Merged |
+| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 12 | ✅ 6 Merged |
+| [**denoland/std**](https://github.com/denoland/std) | 2 | 🆕 Today |
 | [**traefik/traefik**](https://github.com/traefik/traefik) | 3 | ✅ 1 Merged |
 | [**schollz/croc**](https://github.com/schollz/croc) | 1 | 🔄 Open |
 | [**termux/termux-packages**](https://github.com/termux/termux-packages) | 3 | Android Terminal |
