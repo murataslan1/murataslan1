@@ -75,7 +75,7 @@
 + Cloud Native & AI/ML Focus
 ```
 
-**�� Featured Contributions:**
+**🎯 Featured Contributions:**
 - 🧊 **Coolify**: 12+ bug fixes & features
   - #7823: Env sorting fix
   - #7822: Backup popup fix
@@ -89,7 +89,7 @@
 **Categories:**
 - 🧠 **AI/ML**: FAISS, Milvus, Perspective, OpenBB
 - ☁️ **DevOps**: Coolify, Traefik, Termux
-- 🎨 **UI/UX**: shadcn/ui, Draw.io
+- �� **UI/UX**: shadcn/ui, Draw.io
 - 🔒 **Security**: Nuclei, OpenVAS
 - 🛠️ **Tools**: Deno, croc, Jujutsu
 
@@ -162,10 +162,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/murataslan1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murataslan1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=7200"/>
-    <img height="180em" src="https://streak-stats.demolab.com/?user=murataslan1&theme=tokyonight&hide_border=true"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=murataslan1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murataslan1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murataslan1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
