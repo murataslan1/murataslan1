@@ -52,7 +52,7 @@
 | [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 40k | #7762, #7761, #7760, #7759 | 🔄 Open |
 | [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 40k | #7739, #7817, #7772 | ✅ Resolved |
 | [**shadcn-ui/ui**](https://github.com/shadcn-ui/ui) | 80k | #9148 Tailwind v4 fix | 🆕 New |
-| [**traefik/traefik**](https://github.com/traefik/traefik) | 54k | #12324 ForwardAuth log | ✅ Merged |
+| [**traefik/traefik**](https://github.com/traefik/traefik) | 54k | #12324, #12325 | ✅ Merged |
 | [**denoland/std**](https://github.com/denoland/std) | 3.5k | #6913, #6912 | 🆕 December |
 | [**schollz/croc**](https://github.com/schollz/croc) | 29k | #1032, #1031, #1030 | 🔄 Open |
 | [**OpenBB-finance/OpenBB**](https://github.com/OpenBB-finance/OpenBB) | 35k | #7287, #7286 | 🔄 Open |
@@ -111,7 +111,7 @@
 |---------|-----|--------|
 | [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 12+ | ✅ 6+ Merged |
 | [**denoland/std**](https://github.com/denoland/std) | 2 | 🆕 December |
-| [**traefik/traefik**](https://github.com/traefik/traefik) | 3 | ✅ 1 Merged |
+| [**traefik/traefik**](https://github.com/traefik/traefik) | 4 | ✅ 1 Merged |
 | [**schollz/croc**](https://github.com/schollz/croc) | 3 | 🔄 Open |
 | [**termux/termux-packages**](https://github.com/termux/termux-packages) | 3 | Android Terminal |
 | [**serverless-dns**](https://github.com/serverless-dns/serverless-dns) | 2 | Edge DNS |
