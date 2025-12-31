@@ -38,19 +38,19 @@
 
 ---
 
-## 🔥 Son Aktiviteler (31 Aralık 2025)
+## 🔥 Recent Activities (December 31, 2025)
 
 <table>
 <tr>
 <td width="60%">
 
-### 📌 Son Pull Request'ler
+### 📌 Recent Pull Requests
 
 | Project | ⭐ Stars | PR | Status |
 |---------|---------|-----|--------|
-| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 40k | #7739, #7817, #7772 | ✅ Çözüldü |
+| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 40k | #7739, #7817, #7772 | ✅ Resolved |
 | [**traefik/traefik**](https://github.com/traefik/traefik) | 54k | #12324 ForwardAuth log | ✅ Merged |
-| [**denoland/std**](https://github.com/denoland/std) | 3.5k | CSV parse, dedent fix | 🆕 Aralık |
+| [**denoland/std**](https://github.com/denoland/std) | 3.5k | CSV parse, dedent fix | 🆕 December |
 | [**schollz/croc**](https://github.com/schollz/croc) | 29k | BusyBox compatibility | 🔄 Open |
 | [**OpenBB-finance/OpenBB**](https://github.com/OpenBB-finance/OpenBB) | 35k | yfinance fix | 🔄 Open |
 | [**dotnet/aspire**](https://github.com/dotnet/aspire) | 10.9k | UI consistency fix | 🆕 |
@@ -61,18 +61,18 @@
 </td>
 <td width="40%">
 
-### 🏆 Aralık 2025 Özeti
+### 🏆 December 2025 Summary
 
 ```diff
 + 50+ Pull Requests
 + 22+ Major Projects  
-+ Coolify: 3 Bug Çözüldü ✅
++ Coolify: 3 Bugs Fixed ✅
 + Traefik: PR Merged ✅
 + Cloud Native & AI/ML Focus
 ```
 
-**🎯 Öne Çıkan Katkılar:**
-- 🧊 **Coolify**: 3 kritik bug fix
+**🎯 Featured Contributions:**
+- 🧊 **Coolify**: 3 critical bug fixes
   - #7739: Navigation bug
   - #7817: MariaDB backup popup
   - #7772: Env var sorting
@@ -102,7 +102,7 @@
 | Project | PRs | Status |
 |---------|-----|--------|
 | [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 12+ | ✅ 6+ Merged |
-| [**denoland/std**](https://github.com/denoland/std) | 2+ | 🆕 Aralık |
+| [**denoland/std**](https://github.com/denoland/std) | 2+ | 🆕 December |
 | [**traefik/traefik**](https://github.com/traefik/traefik) | 3 | ✅ 1 Merged |
 | [**schollz/croc**](https://github.com/schollz/croc) | 1 | 🔄 Open |
 | [**termux/termux-packages**](https://github.com/termux/termux-packages) | 3 | Android Terminal |
