@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/50%2B%20PRs-December%202025-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20%7C%20Meta%20%7C%20Traefik%20%7C%20Termux-Contributor-blue?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/70%2B%20PRs-December%202025-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20%7C%20Meta%20%7C%20Traefik%20%7C%20Vercel-Contributor-blue?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs%20This%20Month-50%2B-brightgreen?style=for-the-badge&logo=github" alt="PRs"/>
-  <img src="https://img.shields.io/badge/Active%20Projects-22%2B-blue?style=for-the-badge&logo=github" alt="Projects"/>
+  <img src="https://img.shields.io/badge/PRs%20This%20Month-70%2B-brightgreen?style=for-the-badge&logo=github" alt="PRs"/>
+  <img src="https://img.shields.io/badge/Active%20Projects-25%2B-blue?style=for-the-badge&logo=github" alt="Projects"/>
   <a href="https://github.com/murataslan1?tab=followers">
     <img src="https://img.shields.io/github/followers/murataslan1?label=Followers&style=for-the-badge&logo=github&color=purple" alt="GitHub Followers"/>
   </a>
@@ -28,12 +28,12 @@
 
 <p align="center">
   <a href="https://github.com/murataslan1/cursor-ai-tips">
-    <img src="https://img.shields.io/badge/cursor--ai--tips-128%2B%20Stars-yellow?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/cursor--ai--tips-137%2B%20Stars-yellow?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 <p align="center">
-  <b>⭐ 128+ Stars</b> — The Ultimate Cursor AI IDE Guide: Shortcuts, Composer, .cursorrules & Reddit Wisdom
+  <b>⭐ 137+ Stars</b> — The Ultimate Cursor AI IDE Guide: Shortcuts, Composer, .cursorrules & Reddit Wisdom
 </p>
 
 ---
@@ -48,11 +48,14 @@
 
 | Project | ⭐ Stars | PR | Status |
 |---------|---------|-----|--------|
+| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 40k | #7823, #7822, #7821 | 🆕 Today |
+| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 40k | #7762, #7761, #7760, #7759 | 🔄 Open |
 | [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 40k | #7739, #7817, #7772 | ✅ Resolved |
+| [**shadcn-ui/ui**](https://github.com/shadcn-ui/ui) | 80k | #9148 Tailwind v4 fix | 🆕 New |
 | [**traefik/traefik**](https://github.com/traefik/traefik) | 54k | #12324 ForwardAuth log | ✅ Merged |
-| [**denoland/std**](https://github.com/denoland/std) | 3.5k | CSV parse, dedent fix | 🆕 December |
-| [**schollz/croc**](https://github.com/schollz/croc) | 29k | BusyBox compatibility | 🔄 Open |
-| [**OpenBB-finance/OpenBB**](https://github.com/OpenBB-finance/OpenBB) | 35k | yfinance fix | 🔄 Open |
+| [**denoland/std**](https://github.com/denoland/std) | 3.5k | #6913, #6912 | 🆕 December |
+| [**schollz/croc**](https://github.com/schollz/croc) | 29k | #1032, #1031, #1030 | 🔄 Open |
+| [**OpenBB-finance/OpenBB**](https://github.com/OpenBB-finance/OpenBB) | 35k | #7287, #7286 | 🔄 Open |
 | [**dotnet/aspire**](https://github.com/dotnet/aspire) | 10.9k | UI consistency fix | 🆕 |
 | [**facebookresearch/faiss**](https://github.com/facebookresearch/faiss) | 33k | C API docs update | 🆕 |
 | [**termux/termux-packages**](https://github.com/termux/termux-packages) | 15k | opustags pkg & linting | 🟢 |
@@ -64,26 +67,31 @@
 ### 🏆 December 2025 Summary
 
 ```diff
-+ 50+ Pull Requests
-+ 22+ Major Projects  
-+ Coolify: 3 Bugs Fixed ✅
++ 70+ Pull Requests
++ 25+ Major Projects  
++ Coolify: 12+ PRs ✅
 + Traefik: PR Merged ✅
++ shadcn/ui: New Contribution 🆕
 + Cloud Native & AI/ML Focus
 ```
 
-**🎯 Featured Contributions:**
-- 🧊 **Coolify**: 3 critical bug fixes
-  - #7739: Navigation bug
-  - #7817: MariaDB backup popup
-  - #7772: Env var sorting
+**�� Featured Contributions:**
+- 🧊 **Coolify**: 12+ bug fixes & features
+  - #7823: Env sorting fix
+  - #7822: Backup popup fix
+  - #7821: Navigation fix
+  - #7762: IPv4/IPv6 validation
+- 🎨 **shadcn/ui**: #9148 Tailwind v4
 - 🔷 **Traefik**: #12324 merged
-- 🦕 **Deno std**: CSV & utils
+- 🦕 **Deno std**: CSV & dedent utils
+- 🐊 **croc**: 3 PRs (BusyBox, resume)
 
 **Categories:**
-- 🧠 **AI/ML**: FAISS, Milvus, Perspective
+- 🧠 **AI/ML**: FAISS, Milvus, Perspective, OpenBB
 - ☁️ **DevOps**: Coolify, Traefik, Termux
+- 🎨 **UI/UX**: shadcn/ui, Draw.io
 - 🔒 **Security**: Nuclei, OpenVAS
-- 🛠️ **Tools**: Deno, Draw.io, Jujutsu
+- 🛠️ **Tools**: Deno, croc, Jujutsu
 
 </td>
 </tr>
@@ -102,9 +110,9 @@
 | Project | PRs | Status |
 |---------|-----|--------|
 | [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 12+ | ✅ 6+ Merged |
-| [**denoland/std**](https://github.com/denoland/std) | 2+ | 🆕 December |
+| [**denoland/std**](https://github.com/denoland/std) | 2 | 🆕 December |
 | [**traefik/traefik**](https://github.com/traefik/traefik) | 3 | ✅ 1 Merged |
-| [**schollz/croc**](https://github.com/schollz/croc) | 1 | 🔄 Open |
+| [**schollz/croc**](https://github.com/schollz/croc) | 3 | 🔄 Open |
 | [**termux/termux-packages**](https://github.com/termux/termux-packages) | 3 | Android Terminal |
 | [**serverless-dns**](https://github.com/serverless-dns/serverless-dns) | 2 | Edge DNS |
 | [**dotnet/aspire**](https://github.com/dotnet/aspire) | 1 | .NET Cloud Stack |
@@ -118,6 +126,7 @@
 |---------|-----|-------|
 | [**milvus-io/milvus**](https://github.com/milvus-io/milvus) | 4 | Vector Database |
 | [**facebookresearch/faiss**](https://github.com/facebookresearch/faiss) | 2 | AI Similarity Search |
+| [**OpenBB-finance/OpenBB**](https://github.com/OpenBB-finance/OpenBB) | 2 | Finance Platform |
 | [**perspective-dev/perspective**](https://github.com/perspective-dev/perspective) | 2 | Data Visualization |
 | [**SigNoz/signoz**](https://github.com/SigNoz/signoz) | 5 | Observability |
 
@@ -126,21 +135,22 @@
 <tr>
 <td width="50%">
 
-### 🔒 Security
+### 🎨 UI/UX & Frontend
+
+| Project | PRs | Focus |
+|---------|-----|-------|
+| [**shadcn-ui/ui**](https://github.com/shadcn-ui/ui) | 1 | Tailwind v4 CSS |
+| [**jgraph/drawio-desktop**](https://github.com/jgraph/drawio-desktop) | 3 | Diagramming |
+
+</td>
+<td width="50%">
+
+### 🔒 Security & Tools
 
 | Project | PRs | Focus |
 |---------|-----|-------|
 | [**nuclei-templates**](https://github.com/projectdiscovery/nuclei-templates) | 5 | Vuln Templates |
 | [**greenbone/openvas-scanner**](https://github.com/greenbone/openvas-scanner) | 2 | Vulnerability Scanner |
-
-</td>
-<td width="50%">
-
-### 🛠️ Developer Tools
-
-| Project | PRs | Focus |
-|---------|-----|-------|
-| [**jgraph/drawio-desktop**](https://github.com/jgraph/drawio-desktop) | 3 | Diagramming |
 | [**jj-vcs/jj**](https://github.com/jj-vcs/jj) | 2 | Git Alternative |
 
 </td>
