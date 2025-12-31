@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/45%2B%20PRs-December%202025-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/50%2B%20PRs-December%202025-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20%7C%20Meta%20%7C%20Traefik%20%7C%20Termux-Contributor-blue?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs%20This%20Month-45%2B-brightgreen?style=for-the-badge&logo=github" alt="PRs"/>
-  <img src="https://img.shields.io/badge/Active%20Projects-18%2B-blue?style=for-the-badge&logo=github" alt="Projects"/>
+  <img src="https://img.shields.io/badge/PRs%20This%20Month-50%2B-brightgreen?style=for-the-badge&logo=github" alt="PRs"/>
+  <img src="https://img.shields.io/badge/Active%20Projects-22%2B-blue?style=for-the-badge&logo=github" alt="Projects"/>
   <a href="https://github.com/murataslan1?tab=followers">
     <img src="https://img.shields.io/github/followers/murataslan1?label=Followers&style=for-the-badge&logo=github&color=purple" alt="GitHub Followers"/>
   </a>
@@ -38,19 +38,19 @@
 
 ---
 
-## 🔥 This Week's Contributions (December 2025)
+## 🔥 Son Aktiviteler (31 Aralık 2025)
 
 <table>
 <tr>
 <td width="60%">
 
-### 📌 Latest PRs to Major Projects
+### 📌 Son Pull Request'ler
 
 | Project | ⭐ Stars | PR | Status |
 |---------|---------|-----|--------|
-| [**denoland/std**](https://github.com/denoland/std) | 3.5k | CSV parse, dedent fix | 🆕 Today |
-| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 40k | Docker, Unicode, IPv4/6 | 🆕 Today |
-| [**traefik/traefik**](https://github.com/traefik/traefik) | 54k | ForwardAuth logging | ✅ Merged |
+| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 40k | #7739, #7817, #7772 | ✅ Çözüldü |
+| [**traefik/traefik**](https://github.com/traefik/traefik) | 54k | #12324 ForwardAuth log | ✅ Merged |
+| [**denoland/std**](https://github.com/denoland/std) | 3.5k | CSV parse, dedent fix | 🆕 Aralık |
 | [**schollz/croc**](https://github.com/schollz/croc) | 29k | BusyBox compatibility | 🔄 Open |
 | [**OpenBB-finance/OpenBB**](https://github.com/OpenBB-finance/OpenBB) | 35k | yfinance fix | 🔄 Open |
 | [**dotnet/aspire**](https://github.com/dotnet/aspire) | 10.9k | UI consistency fix | 🆕 |
@@ -61,20 +61,23 @@
 </td>
 <td width="40%">
 
-### 🏆 December Highlights
+### 🏆 Aralık 2025 Özeti
 
 ```diff
 + 50+ Pull Requests
 + 22+ Major Projects  
-+ 6 PRs Today! (Dec 24)
-+ Microsoft, Meta, Deno, Coolify
++ Coolify: 3 Bug Çözüldü ✅
++ Traefik: PR Merged ✅
 + Cloud Native & AI/ML Focus
 ```
 
-**🎄 Christmas Eve PRs:**
-- 🦕 **Deno std**: 2 PRs
-- 🧊 **Coolify**: 4 PRs
-- 🔥 **Total Today**: 6 PRs!
+**🎯 Öne Çıkan Katkılar:**
+- 🧊 **Coolify**: 3 kritik bug fix
+  - #7739: Navigation bug
+  - #7817: MariaDB backup popup
+  - #7772: Env var sorting
+- 🔷 **Traefik**: #12324 merged
+- 🦕 **Deno std**: CSV & utils
 
 **Categories:**
 - 🧠 **AI/ML**: FAISS, Milvus, Perspective
@@ -98,8 +101,8 @@
 
 | Project | PRs | Status |
 |---------|-----|--------|
-| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 12 | ✅ 6 Merged |
-| [**denoland/std**](https://github.com/denoland/std) | 2 | 🆕 Today |
+| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 12+ | ✅ 6+ Merged |
+| [**denoland/std**](https://github.com/denoland/std) | 2+ | 🆕 Aralık |
 | [**traefik/traefik**](https://github.com/traefik/traefik) | 3 | ✅ 1 Merged |
 | [**schollz/croc**](https://github.com/schollz/croc) | 1 | 🔄 Open |
 | [**termux/termux-packages**](https://github.com/termux/termux-packages) | 3 | Android Terminal |
