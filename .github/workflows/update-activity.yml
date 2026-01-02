@@ -23,6 +23,8 @@ jobs:
 
       - name: Update README with recent activity
         run: node update-activity.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push if changed
         run: |
