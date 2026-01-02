@@ -48,6 +48,7 @@
 
 | Project | ⭐ Stars | PR | Status |
 |---------|---------|-----|--------|
+| [**microsoft/vscode**](https://github.com/microsoft/vscode) | 160k | 5 PRs in 1 Session | 🚀 Big League |
 | [**appwrite/appwrite**](https://github.com/appwrite/appwrite) | 45k | #11062 (Locale Fix) | ✅ PR Ready |
 | [**denoland/deno**](https://github.com/denoland/deno) | 97k | #31750 (Prompt Fix) | ✅ CI Passed |
 | [**nocodb/nocodb**](https://github.com/nocodb/nocodb) | 44k | #12777 (Turkish) | ✅ PR Ready |
@@ -65,7 +66,8 @@
 ### 🚀 2026 Kickoff & Dec Recap
 
 ```diff
-+ 3 New Open Source PRs (Jan 1)
++ 5 VS Code PRs (Jan 2) 🚀
++ Fixes in Core, Extensions, Markers
 + Appwrite: Localization Fix 🌍
 + Deno: Core Bug Fix 🦕
 + NocoDB: Contribution 🇹🇷
@@ -75,6 +77,7 @@
 ```
 
 **🎯 Latest Contributions:**
+- 💻 **VS Code**: 5 PRs (Extensions, UI/UX, Core Logic) - #156782, #250201, #120826...
 - 🚀 **Appwrite**: Session Alert Fix (#11062)
 - 🦕 **Deno**: `prompt()` Extra Newline Fix (#31750)
 - 🇹🇷 **NocoDB**: Turkish Localization (#12777)
