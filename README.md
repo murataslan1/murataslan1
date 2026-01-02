@@ -48,17 +48,16 @@
 
 | Project | ⭐ Stars | PR | Status |
 |---------|---------|-----|--------|
-| [**microsoft/vscode**](https://github.com/microsoft/vscode) | 160k | 5 PRs in 1 Session | 🚀 Big League |
+| [**langchain-ai/langchainjs**](https://github.com/langchain-ai/langchainjs) | 13k | #9726 (DeepSeek R1) | 🔄 Review |
+| [**vercel/ai**](https://github.com/vercel/ai) | 12k | #11491 (Gateway Fix) | ✅ Pushed |
+| [**microsoft/vscode**](https://github.com/microsoft/vscode) | 160k | 7 PRs (Jan 2) | 🚀 Big League |
+| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 40k | #7540 ($25 Bounty) | 💰 Bounty |
 | [**appwrite/appwrite**](https://github.com/appwrite/appwrite) | 45k | #11062 (Locale Fix) | ✅ PR Ready |
 | [**denoland/deno**](https://github.com/denoland/deno) | 97k | #31750 (Prompt Fix) | ✅ CI Passed |
 | [**nocodb/nocodb**](https://github.com/nocodb/nocodb) | 44k | #12777 (Turkish) | ✅ PR Ready |
-| [**murataslan1/local-ai-coding-guide**](https://github.com/murataslan1/local-ai-coding-guide) | New | 5k+ Lines of Content | 🚀 Launched |
-| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 40k | #7823, #7822, #7821 | ✅ Merged |
-| [**shadcn-ui/ui**](https://github.com/shadcn-ui/ui) | 80k | #9148 Tailwind v4 fix | 🆕 New |
+| [**shadcn-ui/ui**](https://github.com/shadcn-ui/ui) | 80k | #9148 Tailwind v4 | 🆕 New |
 | [**traefik/traefik**](https://github.com/traefik/traefik) | 54k | #12324, #12325 | ✅ Merged |
 | [**denoland/std**](https://github.com/denoland/std) | 3.5k | #6913, #6912 | 🆕 Dec |
-| [**schollz/croc**](https://github.com/schollz/croc) | 29k | #1032, #1031 | 🔄 Open |
-| [**OpenBB-finance/OpenBB**](https://github.com/OpenBB-finance/OpenBB) | 35k | #7287, #7286 | 🔄 Open |
 
 </td>
 <td width="40%">
@@ -66,26 +65,25 @@
 ### 🚀 2026 Kickoff & Dec Recap
 
 ```diff
-+ 5 VS Code PRs (Jan 2) 🚀
-+ Fixes in Core, Extensions, Markers
++ LangChainJS: DeepSeek R1 Fix 🧠
++ Vercel AI SDK: Gateway Fix 🚀
++ 7 VS Code PRs (Jan 2) 💻
++ Coolify: $25 Bounty PR 💰
 + Appwrite: Localization Fix 🌍
 + Deno: Core Bug Fix 🦕
-+ NocoDB: Contribution 🇹🇷
-+ Local AI Guide Launched 🤖
-+ 70+ PRs in Dec 2025
-+ Coolify: 12+ PRs ✅
++ 70+ PRs in Dec 2025 📈
 ```
 
 **🎯 Latest Contributions:**
-- 💻 **VS Code**: 5 PRs (Extensions, UI/UX, Core Logic) - #156782, #250201, #120826...
-- 🚀 **Appwrite**: Session Alert Fix (#11062)
+- 🧠 **LangChainJS**: DeepSeek R1 `<think>` tag parsing (#9726)
+- 🚀 **Vercel AI SDK**: Gateway tool approval fix (#11491)
+- 💻 **VS Code**: 7 PRs (Extensions, UI/UX, Terminal)
+- 💰 **Coolify**: ServiceDatabase backup ($25 bounty)
 - 🦕 **Deno**: `prompt()` Extra Newline Fix (#31750)
-- 🇹🇷 **NocoDB**: Turkish Localization (#12777)
-- 🧊 **Coolify**: 12+ bug fixes & features
 - 🎨 **shadcn/ui**: Tailwind v4 compatibility
 
 **Focus Areas:**
-- 🧠 **AI Agents**: Local LLMs, MCP, RAG
+- 🧠 **AI Agents**: LangChain, Vercel AI SDK, MCP
 - ☁️ **Cloud Native**: Appwrite, Coolify, Traefik
 - 🛠️ **Runtime**: Deno, Node.js
 
@@ -120,10 +118,11 @@
 
 | Project | PRs | Focus |
 |---------|-----|-------|
+| [**langchain-ai/langchainjs**](https://github.com/langchain-ai/langchainjs) | 1 | DeepSeek R1 Support |
+| [**vercel/ai**](https://github.com/vercel/ai) | 1 | Gateway SDK Fix |
 | [**milvus-io/milvus**](https://github.com/milvus-io/milvus) | 4 | Vector Database |
 | [**facebookresearch/faiss**](https://github.com/facebookresearch/faiss) | 2 | AI Similarity Search |
 | [**OpenBB-finance/OpenBB**](https://github.com/OpenBB-finance/OpenBB) | 2 | Finance Platform |
-| [**perspective-dev/perspective**](https://github.com/perspective-dev/perspective) | 2 | Data Visualization |
 | [**SigNoz/signoz**](https://github.com/SigNoz/signoz) | 5 | Observability |
 
 </td>
