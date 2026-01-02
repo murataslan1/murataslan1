@@ -38,7 +38,7 @@
 
 ---
 
-## 🔥 Recent Activities (December 31, 2025)
+## 🔥 Recent Activities (January 2, 2026)
 
 <table>
 <tr>
@@ -48,50 +48,43 @@
 
 | Project | ⭐ Stars | PR | Status |
 |---------|---------|-----|--------|
-| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 40k | #7823, #7822, #7821 | 🆕 Today |
-| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 40k | #7762, #7761, #7760, #7759 | 🔄 Open |
-| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 40k | #7739, #7817, #7772 | ✅ Resolved |
+| [**appwrite/appwrite**](https://github.com/appwrite/appwrite) | 45k | #11062 (Locale Fix) | ✅ PR Ready |
+| [**denoland/deno**](https://github.com/denoland/deno) | 97k | #31750 (Prompt Fix) | ✅ CI Passed |
+| [**nocodb/nocodb**](https://github.com/nocodb/nocodb) | 44k | #12777 (Turkish) | ✅ PR Ready |
+| [**murataslan1/local-ai-coding-guide**](https://github.com/murataslan1/local-ai-coding-guide) | New | 5k+ Lines of Content | 🚀 Launched |
+| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 40k | #7823, #7822, #7821 | ✅ Merged |
 | [**shadcn-ui/ui**](https://github.com/shadcn-ui/ui) | 80k | #9148 Tailwind v4 fix | 🆕 New |
 | [**traefik/traefik**](https://github.com/traefik/traefik) | 54k | #12324, #12325 | ✅ Merged |
-| [**denoland/std**](https://github.com/denoland/std) | 3.5k | #6913, #6912 | 🆕 December |
-| [**schollz/croc**](https://github.com/schollz/croc) | 29k | #1032, #1031, #1030 | 🔄 Open |
+| [**denoland/std**](https://github.com/denoland/std) | 3.5k | #6913, #6912 | 🆕 Dec |
+| [**schollz/croc**](https://github.com/schollz/croc) | 29k | #1032, #1031 | 🔄 Open |
 | [**OpenBB-finance/OpenBB**](https://github.com/OpenBB-finance/OpenBB) | 35k | #7287, #7286 | 🔄 Open |
-| [**dotnet/aspire**](https://github.com/dotnet/aspire) | 10.9k | UI consistency fix | 🆕 |
-| [**facebookresearch/faiss**](https://github.com/facebookresearch/faiss) | 33k | C API docs update | 🆕 |
-| [**termux/termux-packages**](https://github.com/termux/termux-packages) | 15k | opustags pkg & linting | 🟢 |
-| [**milvus-io/milvus**](https://github.com/milvus-io/milvus) | 32k | 4 enhancement PRs | 🔄 Open |
 
 </td>
 <td width="40%">
 
-### 🏆 December 2025 Summary
+### 🚀 2026 Kickoff & Dec Recap
 
 ```diff
-+ 70+ Pull Requests
-+ 25+ Major Projects  
++ 3 New Open Source PRs (Jan 1)
++ Appwrite: Localization Fix 🌍
++ Deno: Core Bug Fix 🦕
++ NocoDB: Contribution 🇹🇷
++ Local AI Guide Launched 🤖
++ 70+ PRs in Dec 2025
 + Coolify: 12+ PRs ✅
-+ Traefik: PR Merged ✅
-+ shadcn/ui: New Contribution 🆕
-+ Cloud Native & AI/ML Focus
 ```
 
-**🎯 Featured Contributions:**
+**🎯 Latest Contributions:**
+- 🚀 **Appwrite**: Session Alert Fix (#11062)
+- 🦕 **Deno**: `prompt()` Extra Newline Fix (#31750)
+- 🇹🇷 **NocoDB**: Turkish Localization (#12777)
 - 🧊 **Coolify**: 12+ bug fixes & features
-  - #7823: Env sorting fix
-  - #7822: Backup popup fix
-  - #7821: Navigation fix
-  - #7762: IPv4/IPv6 validation
-- 🎨 **shadcn/ui**: #9148 Tailwind v4
-- 🔷 **Traefik**: #12324 merged
-- 🦕 **Deno std**: CSV & dedent utils
-- 🐊 **croc**: 3 PRs (BusyBox, resume)
+- 🎨 **shadcn/ui**: Tailwind v4 compatibility
 
-**Categories:**
-- 🧠 **AI/ML**: FAISS, Milvus, Perspective, OpenBB
-- ☁️ **DevOps**: Coolify, Traefik, Termux
-- �� **UI/UX**: shadcn/ui, Draw.io
-- 🔒 **Security**: Nuclei, OpenVAS
-- 🛠️ **Tools**: Deno, croc, Jujutsu
+**Focus Areas:**
+- 🧠 **AI Agents**: Local LLMs, MCP, RAG
+- ☁️ **Cloud Native**: Appwrite, Coolify, Traefik
+- 🛠️ **Runtime**: Deno, Node.js
 
 </td>
 </tr>
