@@ -8,18 +8,19 @@ const USERNAME = 'murataslan1';
 const README_PATH = path.join(__dirname, 'README.md');
 const ACTIVITY_START = '<!-- ACTIVITY_START -->';
 const ACTIVITY_END = '<!-- ACTIVITY_END -->';
+const TWENTY_FOUR_HOURS_MS = 24 * 60 * 60 * 1000;
 
 // Fetch GitHub events for the user
 function fetchGitHubEvents() {
   return new Promise((resolve, reject) => {
     const headers = {
       'User-Agent': 'Node.js',
-      'Accept': 'application/vnd.github.v3+json'
+      'Accept': 'application/vnd.github+json'
     };
     
     // Add authorization if GITHUB_TOKEN is available
     if (process.env.GITHUB_TOKEN) {
-      headers['Authorization'] = `token ${process.env.GITHUB_TOKEN}`;
+      headers['Authorization'] = `Bearer ${process.env.GITHUB_TOKEN}`;
     }
     
     const options = {
@@ -38,7 +39,11 @@ function fetchGitHubEvents() {
 
       res.on('end', () => {
         if (res.statusCode === 200) {
-          resolve(JSON.parse(data));
+          try {
+            resolve(JSON.parse(data));
+          } catch (error) {
+            reject(new Error(`Failed to parse GitHub API response: ${error.message}`));
+          }
         } else if (res.statusCode === 403) {
           console.warn('GitHub API rate limit reached. Skipping update.');
           resolve([]); // Return empty array instead of failing
@@ -54,7 +59,7 @@ function fetchGitHubEvents() {
 
 // Filter events from the last 24 hours
 function filterRecentEvents(events) {
-  const oneDayAgo = new Date(Date.now() - 24 * 60 * 60 * 1000);
+  const oneDayAgo = new Date(Date.now() - TWENTY_FOUR_HOURS_MS);
   return events.filter(event => {
     const eventDate = new Date(event.created_at);
     return eventDate >= oneDayAgo;
@@ -103,7 +108,7 @@ function formatEvent(event) {
     case 'CreateEvent':
       const refType = event.payload.ref_type;
       const ref = event.payload.ref || '';
-      return `- **${date}** - Created ${refType} ${ref ? `\`${ref}\`` : ''} in [${repo}](https://github.com/${repo})`;
+      return `- **${date}** - Created ${refType}${ref ? ` \`${ref}\`` : ''} in [${repo}](https://github.com/${repo})`;
     
     case 'ForkEvent':
       return `- **${date}** - Forked [${repo}](https://github.com/${repo})`;
@@ -143,6 +148,11 @@ function generateActivityContent(events) {
   return `${ACTIVITY_START}\n<!-- This section is automatically updated daily with recent GitHub activity -->\n\n${limitedEvents.join('\n')}\n\n${ACTIVITY_END}`;
 }
 
+// Get empty activity section content
+function getEmptySection() {
+  return `${ACTIVITY_START}\n<!-- This section is automatically updated daily with recent GitHub activity -->\n${ACTIVITY_END}`;
+}
+
 // Update README file
 function updateReadme(activityContent) {
   const readme = fs.readFileSync(README_PATH, 'utf8');
@@ -159,7 +169,7 @@ function updateReadme(activityContent) {
   // If no activity, check if section is already empty
   if (!activityContent) {
     const currentSection = readme.substring(startIndex, endIndex + ACTIVITY_END.length);
-    const emptySection = `${ACTIVITY_START}\n<!-- This section is automatically updated daily with recent GitHub activity -->\n${ACTIVITY_END}`;
+    const emptySection = getEmptySection();
     
     if (currentSection.trim() === emptySection.trim()) {
       console.log('No recent activity and section already empty. No changes needed.');
@@ -205,7 +215,7 @@ async function main() {
       
       if (startIndex !== -1 && endIndex !== -1) {
         const currentContent = readme.substring(startIndex, endIndex + ACTIVITY_END.length);
-        const emptyContent = `${ACTIVITY_START}\n<!-- This section is automatically updated daily with recent GitHub activity -->\n${ACTIVITY_END}`;
+        const emptyContent = getEmptySection();
         
         if (currentContent !== emptyContent) {
           updateReadme(null);
