@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/70%2B%20PRs-December%202025-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/75%2B%20PRs-January%202026-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20%7C%20Meta%20%7C%20Traefik%20%7C%20Vercel-Contributor-blue?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs%20This%20Month-70%2B-brightgreen?style=for-the-badge&logo=github" alt="PRs"/>
-  <img src="https://img.shields.io/badge/Active%20Projects-25%2B-blue?style=for-the-badge&logo=github" alt="Projects"/>
+  <img src="https://img.shields.io/badge/PRs%20This%20Month-75%2B-brightgreen?style=for-the-badge&logo=github" alt="PRs"/>
+  <img src="https://img.shields.io/badge/Active%20Projects-30%2B-blue?style=for-the-badge&logo=github" alt="Projects"/>
   <a href="https://github.com/murataslan1?tab=followers">
     <img src="https://img.shields.io/github/followers/murataslan1?label=Followers&style=for-the-badge&logo=github&color=purple" alt="GitHub Followers"/>
   </a>
@@ -24,21 +24,25 @@
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
 <p align="center">
   <a href="https://github.com/murataslan1/cursor-ai-tips">
     <img src="https://img.shields.io/badge/cursor--ai--tips-137%2B%20Stars-yellow?style=for-the-badge&logo=github"/>
   </a>
+  <a href="https://github.com/murataslan1/ai-agent-benchmark">
+    <img src="https://img.shields.io/badge/ai--agent--benchmark-NEW-orange?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 <p align="center">
-  <b>⭐ 137+ Stars</b> — The Ultimate Cursor AI IDE Guide: Shortcuts, Composer, .cursorrules & Reddit Wisdom
+  <b>⭐ cursor-ai-tips:</b> 137+ Stars — The Ultimate Cursor AI IDE Guide<br>
+  <b>🔥 ai-agent-benchmark:</b> Real-world AI coding tool comparisons from 140+ sources
 </p>
 
 ---
 
-## 🔥 Recent Activities (January 2, 2026)
+## 🔥 Recent Activities (January 3, 2026)
 
 <table>
 <tr>
@@ -48,44 +52,44 @@
 
 | Project | ⭐ Stars | PR | Status |
 |---------|---------|-----|--------|
+| [**microsoft/vscode**](https://github.com/microsoft/vscode) | 160k | #285636 (Disable Action) | ✅ Test Added |
+| [**milvus-io/milvus**](https://github.com/milvus-io/milvus) | 30k | #45925 (Docker Fix) | 🔧 Fixed |
+| [**mindsdb/mindsdb**](https://github.com/mindsdb/mindsdb) | 28k | #12004 (S3 Region) | ✅ Approved |
+| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 40k | #7858 (SSH Timeout) | 💰 $100 Bounty |
+| [**OpenBB-finance/OpenBB**](https://github.com/OpenBB-finance/OpenBB) | 36k | #7286 (Examples Fix) | 🔧 Updated |
+| [**appwrite/appwrite**](https://github.com/appwrite/appwrite) | 45k | #11062 (Spanish i18n) | 🔄 Review |
 | [**langchain-ai/langchainjs**](https://github.com/langchain-ai/langchainjs) | 13k | #9726 (DeepSeek R1) | 🔄 Review |
 | [**vercel/ai**](https://github.com/vercel/ai) | 12k | #11491 (Gateway Fix) | ✅ Pushed |
-| [**microsoft/vscode**](https://github.com/microsoft/vscode) | 160k | 7 PRs (Jan 2) | 🚀 Big League |
-| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 40k | #7540 ($25 Bounty) | 💰 Bounty |
-| [**appwrite/appwrite**](https://github.com/appwrite/appwrite) | 45k | #11062 (Locale Fix) | ✅ PR Ready |
-| [**denoland/deno**](https://github.com/denoland/deno) | 97k | #31750 (Prompt Fix) | ✅ CI Passed |
-| [**nocodb/nocodb**](https://github.com/nocodb/nocodb) | 44k | #12777 (Turkish) | ✅ PR Ready |
-| [**shadcn-ui/ui**](https://github.com/shadcn-ui/ui) | 80k | #9148 Tailwind v4 | 🆕 New |
-| [**traefik/traefik**](https://github.com/traefik/traefik) | 54k | #12324, #12325 | ✅ Merged |
-| [**denoland/std**](https://github.com/denoland/std) | 3.5k | #6913, #6912 | 🆕 Dec |
+| [**traefik/traefik**](https://github.com/traefik/traefik) | 54k | #12326 (UI Fix) | ⏳ CI Wait |
+| [**denoland/std**](https://github.com/denoland/std) | 3.5k | #6912 (CSV Fix) | ✅ Review |
 
 </td>
 <td width="40%">
 
-### 🚀 2026 Kickoff & Dec Recap
+### 🚀 January 3 Highlights
 
 ```diff
-+ LangChainJS: DeepSeek R1 Fix 🧠
-+ Vercel AI SDK: Gateway Fix 🚀
-+ 7 VS Code PRs (Jan 2) 💻
-+ Coolify: $25 Bounty PR 💰
-+ Appwrite: Localization Fix 🌍
-+ Deno: Core Bug Fix 🦕
-+ 70+ PRs in Dec 2025 📈
++ Milvus: Fixed DCO + Conflict 🔧
++ VS Code: Added Copilot Test 💻
++ MindsDB: S3 PR Approved ✅
++ Coolify: $100 Bounty PR 💰
++ OpenBB: Reverted Fix 📝
++ ai-agent-benchmark: 140+ sources 📊
 ```
 
-**🎯 Latest Contributions:**
-- 🧠 **LangChainJS**: DeepSeek R1 `<think>` tag parsing (#9726)
-- 🚀 **Vercel AI SDK**: Gateway tool approval fix (#11491)
-- 💻 **VS Code**: 7 PRs (Extensions, UI/UX, Terminal)
-- 💰 **Coolify**: ServiceDatabase backup ($25 bounty)
-- 🦕 **Deno**: `prompt()` Extra Newline Fix (#31750)
-- 🎨 **shadcn/ui**: Tailwind v4 compatibility
+**🎯 Today's Focus:**
+- 🔧 **Milvus**: Docker Apple Silicon fix
+- 💻 **VS Code**: DisableGloballyAction test
+- 💰 **Coolify**: SSH timeout $100 bounty
+- 📊 **Research**: AI tool benchmark repo
 
-**Focus Areas:**
-- 🧠 **AI Agents**: LangChain, Vercel AI SDK, MCP
-- ☁️ **Cloud Native**: Appwrite, Coolify, Traefik
-- 🛠️ **Runtime**: Deno, Node.js
+**Active Bounties:**
+- 💰 Coolify #7858: $100 (SSH Timeout)
+- 💰 Coolify #7473: TBD (Backup Fix)
+
+**Research Projects:**
+- 🔥 [ai-agent-benchmark](https://github.com/murataslan1/ai-agent-benchmark)
+- 📖 Perplexity + Gemini sourced
 
 </td>
 </tr>
@@ -103,12 +107,12 @@
 
 | Project | PRs | Status |
 |---------|-----|--------|
-| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 12+ | ✅ 6+ Merged |
+| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 15+ | ✅ 8+ Merged |
+| [**milvus-io/milvus**](https://github.com/milvus-io/milvus) | 5 | 🔧 Active |
+| [**traefik/traefik**](https://github.com/traefik/traefik) | 5 | ✅ 2 Merged |
 | [**denoland/std**](https://github.com/denoland/std) | 2 | 🆕 December |
-| [**traefik/traefik**](https://github.com/traefik/traefik) | 4 | ✅ 1 Merged |
 | [**schollz/croc**](https://github.com/schollz/croc) | 3 | 🔄 Open |
 | [**termux/termux-packages**](https://github.com/termux/termux-packages) | 3 | Android Terminal |
-| [**serverless-dns**](https://github.com/serverless-dns/serverless-dns) | 2 | Edge DNS |
 | [**dotnet/aspire**](https://github.com/dotnet/aspire) | 1 | .NET Cloud Stack |
 
 </td>
@@ -120,7 +124,8 @@
 |---------|-----|-------|
 | [**langchain-ai/langchainjs**](https://github.com/langchain-ai/langchainjs) | 1 | DeepSeek R1 Support |
 | [**vercel/ai**](https://github.com/vercel/ai) | 1 | Gateway SDK Fix |
-| [**milvus-io/milvus**](https://github.com/milvus-io/milvus) | 4 | Vector Database |
+| [**mindsdb/mindsdb**](https://github.com/mindsdb/mindsdb) | 1 | S3 Region Fix |
+| [**milvus-io/milvus**](https://github.com/milvus-io/milvus) | 5 | Vector Database |
 | [**facebookresearch/faiss**](https://github.com/facebookresearch/faiss) | 2 | AI Similarity Search |
 | [**OpenBB-finance/OpenBB**](https://github.com/OpenBB-finance/OpenBB) | 2 | Finance Platform |
 | [**SigNoz/signoz**](https://github.com/SigNoz/signoz) | 5 | Observability |
@@ -134,8 +139,10 @@
 
 | Project | PRs | Focus |
 |---------|-----|-------|
+| [**microsoft/vscode**](https://github.com/microsoft/vscode) | 8 | Extensions, UI/UX |
 | [**shadcn-ui/ui**](https://github.com/shadcn-ui/ui) | 1 | Tailwind v4 CSS |
 | [**jgraph/drawio-desktop**](https://github.com/jgraph/drawio-desktop) | 3 | Diagramming |
+| [**appwrite/appwrite**](https://github.com/appwrite/appwrite) | 1 | Spanish Locale |
 
 </td>
 <td width="50%">
@@ -147,6 +154,7 @@
 | [**nuclei-templates**](https://github.com/projectdiscovery/nuclei-templates) | 5 | Vuln Templates |
 | [**greenbone/openvas-scanner**](https://github.com/greenbone/openvas-scanner) | 2 | Vulnerability Scanner |
 | [**jj-vcs/jj**](https://github.com/jj-vcs/jj) | 2 | Git Alternative |
+| [**denoland/deno**](https://github.com/denoland/deno) | 1 | Prompt Fix |
 
 </td>
 </tr>
