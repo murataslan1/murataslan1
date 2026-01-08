@@ -42,7 +42,7 @@
 
 ---
 
-## 🔥 Recent Activities (January 3, 2026)
+## 🔥 Recent Activities (January 8, 2026)
 
 <table>
 <tr>
@@ -52,44 +52,38 @@
 
 | Project | ⭐ Stars | PR | Status |
 |---------|---------|-----|--------|
-| [**microsoft/vscode**](https://github.com/microsoft/vscode) | 160k | #285636 (Disable Action) | ✅ Test Added |
-| [**milvus-io/milvus**](https://github.com/milvus-io/milvus) | 30k | #45925 (Docker Fix) | 🔧 Fixed |
+| [**greenbone/openvas-scanner**](https://github.com/greenbone/openvas-scanner) | 3k | #2082 (Cred Validation) | ✅ Pushed |
+| [**traefik/traefik**](https://github.com/traefik/traefik) | 54k | #12326 (UI Fix) | 🔄 Rebased |
+| [**cortexlinux/cortex**](https://github.com/cortexlinux/cortex) | 150 | #462 (Pkg Manager) | 🔄 Review |
+| [**starbaser/ccproxy**](https://github.com/starbaser/ccproxy) | 50 | Config Validation | 🚀 Ready |
+| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 40k | #7739, #7817 (Fixes) | ✅ Merged |
+| [**microsoft/vscode**](https://github.com/microsoft/vscode) | 160k | #285636 (Action) | ✅ Test Added |
 | [**mindsdb/mindsdb**](https://github.com/mindsdb/mindsdb) | 28k | #12004 (S3 Region) | ✅ Approved |
-| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 40k | #7858 (SSH Timeout) | 💰 $100 Bounty |
-| [**OpenBB-finance/OpenBB**](https://github.com/OpenBB-finance/OpenBB) | 36k | #7286 (Examples Fix) | 🔧 Updated |
-| [**appwrite/appwrite**](https://github.com/appwrite/appwrite) | 45k | #11062 (Spanish i18n) | 🔄 Review |
-| [**langchain-ai/langchainjs**](https://github.com/langchain-ai/langchainjs) | 13k | #9726 (DeepSeek R1) | 🔄 Review |
-| [**vercel/ai**](https://github.com/vercel/ai) | 12k | #11491 (Gateway Fix) | ✅ Pushed |
-| [**traefik/traefik**](https://github.com/traefik/traefik) | 54k | #12326 (UI Fix) | ⏳ CI Wait |
-| [**denoland/std**](https://github.com/denoland/std) | 3.5k | #6912 (CSV Fix) | ✅ Review |
 
 </td>
 <td width="40%">
 
-### 🚀 January 3 Highlights
+### 🚀 January 8 Highlights
 
 ```diff
-+ Milvus: Fixed DCO + Conflict 🔧
-+ VS Code: Added Copilot Test 💻
-+ MindsDB: S3 PR Approved ✅
-+ Coolify: $100 Bounty PR 💰
-+ OpenBB: Reverted Fix 📝
-+ ai-agent-benchmark: 140+ sources 📊
++ OpenVAS: Added Credential Logic 🔒
++ Traefik: Fixed UI Table Layout 🐳
++ CCProxy: Rich Error Reporting 🛠️
++ Cortex: Enhanced CLI & Pkg Mgr 📦
++ Coolify: Fixed Multiple Bugs 🔧
 ```
 
 **🎯 Today's Focus:**
-- 🔧 **Milvus**: Docker Apple Silicon fix
-- 💻 **VS Code**: DisableGloballyAction test
-- 💰 **Coolify**: SSH timeout $100 bounty
-- 📊 **Research**: AI tool benchmark repo
+- 🔒 **OpenVAS**: Verify credential validation
+- 🐳 **Traefik**: Monitor CI for UI fix
+- 🛠️ **CCProxy**: Open PR for validation
+- 📦 **Cortex**: Finalize package manager
 
 **Active Bounties:**
 - 💰 Coolify #7858: $100 (SSH Timeout)
-- 💰 Coolify #7473: TBD (Backup Fix)
 
 **Research Projects:**
 - 🔥 [ai-agent-benchmark](https://github.com/murataslan1/ai-agent-benchmark)
-- 📖 Perplexity + Gemini sourced
 
 </td>
 </tr>
