@@ -42,7 +42,7 @@
 
 ---
 
-## 🔥 Recent Activities (January 8, 2026)
+## 🔥 Recent Activities (January 9, 2026)
 
 <table>
 <tr>
@@ -52,38 +52,40 @@
 
 | Project | ⭐ Stars | PR | Status |
 |---------|---------|-----|--------|
-| [**greenbone/openvas-scanner**](https://github.com/greenbone/openvas-scanner) | 3k | #2082 (Cred Validation) | ✅ Pushed |
-| [**traefik/traefik**](https://github.com/traefik/traefik) | 54k | #12326 (UI Fix) | 🔄 Rebased |
-| [**cortexlinux/cortex**](https://github.com/cortexlinux/cortex) | 150 | #462 (Pkg Manager) | 🔄 Review |
-| [**starbaser/ccproxy**](https://github.com/starbaser/ccproxy) | 50 | Config Validation | 🚀 Ready |
-| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 40k | #7739, #7817 (Fixes) | ✅ Merged |
-| [**microsoft/vscode**](https://github.com/microsoft/vscode) | 160k | #285636 (Action) | ✅ Test Added |
+| [**traefik/traefik**](https://github.com/traefik/traefik) | 54k | #12325 (Weight Display) | 💬 Review |
+| [**traefik/traefik**](https://github.com/traefik/traefik) | 54k | #12326 (UI Fix) | ⚠️ Closing |
+| [**cortexlinux/cortex**](https://github.com/cortexlinux/cortex) | 150 | #462 (Pkg Manager) | ✅ Fixed |
+| [**cortexlinux/cortex**](https://github.com/cortexlinux/cortex) | 150 | #463 (Printer Wizard) | ⚠️ Needs Work |
+| [**milvus-io/milvus**](https://github.com/milvus-io/milvus) | 36k | #46159 (fnmatch) | 🔄 Revived |
+| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 40k | #7739, #7817 | ✅ Merged |
 | [**mindsdb/mindsdb**](https://github.com/mindsdb/mindsdb) | 28k | #12004 (S3 Region) | ✅ Approved |
 
 </td>
 <td width="40%">
 
-### 🚀 January 8 Highlights
+### 🚀 January 9 Highlights
 
 ```diff
-+ OpenVAS: Added Credential Logic 🔒
-+ Traefik: Fixed UI Table Layout 🐳
-+ CCProxy: Rich Error Reporting 🛠️
-+ Cortex: Enhanced CLI & Pkg Mgr 📦
-+ Coolify: Fixed Multiple Bugs 🔧
++ Traefik: Clarified useMemo impl 🐳
++ Cortex: Fixed lint + conflicts 📦
++ Cortex: Fixed printer/scanner 🖨️
++ Milvus: Revived stale PR 🔄
++ All PRs: Merge conflicts resolved ✅
 ```
 
 **🎯 Today's Focus:**
-- 🔒 **OpenVAS**: Verify credential validation
-- 🐳 **Traefik**: Monitor CI for UI fix
-- 🛠️ **CCProxy**: Open PR for validation
-- 📦 **Cortex**: Finalize package manager
+- 🐳 **Traefik**: Wait for gndz07 review
+- 📦 **Cortex #462**: CI tests running
+- 🖨️ **Cortex #463**: Add tests & docs
+- 🔄 **Milvus**: Fix build conflicts
 
 **Active Bounties:**
-- 💰 Coolify #7858: $100 (SSH Timeout)
+- 💰 Cortex #450: Pkg Manager
+- 💰 Cortex #451: Printer Wizard
 
-**Research Projects:**
-- 🔥 [ai-agent-benchmark](https://github.com/murataslan1/ai-agent-benchmark)
+**Key Learnings:**
+- ⚠️ Always include tests & docs
+- ✅ Proactive conflict resolution
 
 </td>
 </tr>
