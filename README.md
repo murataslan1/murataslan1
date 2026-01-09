@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/75%2B%20PRs-January%202026-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20%7C%20Meta%20%7C%20Traefik%20%7C%20Vercel-Contributor-blue?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/80%2B%20PRs-January%202026-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20%7C%20Meta%20%7C%20Traefik%20%7C%20Milvus-Contributor-blue?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs%20This%20Month-75%2B-brightgreen?style=for-the-badge&logo=github" alt="PRs"/>
-  <img src="https://img.shields.io/badge/Active%20Projects-30%2B-blue?style=for-the-badge&logo=github" alt="Projects"/>
+  <img src="https://img.shields.io/badge/PRs%20This%20Month-80%2B-brightgreen?style=for-the-badge&logo=github" alt="PRs"/>
+  <img src="https://img.shields.io/badge/Active%20Projects-35%2B-blue?style=for-the-badge&logo=github" alt="Projects"/>
+  <img src="https://img.shields.io/badge/Repos-220%2B-orange?style=for-the-badge&logo=github" alt="Repos"/>
   <a href="https://github.com/murataslan1?tab=followers">
     <img src="https://img.shields.io/github/followers/murataslan1?label=Followers&style=for-the-badge&logo=github&color=purple" alt="GitHub Followers"/>
   </a>
-  <img src="https://img.shields.io/badge/Profile%20Views-1000%2B-blueviolet?style=for-the-badge&logo=github" alt="Profile Views"/>
 </p>
 
 ---
@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://github.com/murataslan1/cursor-ai-tips">
-    <img src="https://img.shields.io/badge/cursor--ai--tips-137%2B%20Stars-yellow?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/cursor--ai--tips-140%2B%20Stars-yellow?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://github.com/murataslan1/ai-agent-benchmark">
     <img src="https://img.shields.io/badge/ai--agent--benchmark-NEW-orange?style=for-the-badge&logo=github"/>
@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <b>⭐ cursor-ai-tips:</b> 137+ Stars — The Ultimate Cursor AI IDE Guide<br>
+  <b>⭐ cursor-ai-tips:</b> 140+ Stars — The Ultimate Cursor AI IDE Guide<br>
   <b>🔥 ai-agent-benchmark:</b> Real-world AI coding tool comparisons from 140+ sources
 </p>
 
