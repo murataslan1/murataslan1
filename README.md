@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://img.shields.io/badge/Murat%20Aslan-Open%20Source%20Contributor-6AD3F7?style=for-the-badge&logo=github&logoColor=white" alt="Murat Aslan"/>
+  <img src="https://img.shields.io/badge/Murat%20Aslan-Open%20Source%20Contributor-ff6b35?style=for-the-badge&logo=github&logoColor=white" alt="Murat Aslan"/>
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/80%2B%20PRs-January%202026-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20%7C%20Meta%20%7C%20Traefik%20%7C%20Milvus-Contributor-blue?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/90%2B%20PRs-January%202026-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20%7C%20Meta%20%7C%20Traefik%20%7C%20Milvus%20%7C%20Deno-Contributor-blue?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs%20This%20Month-80%2B-brightgreen?style=for-the-badge&logo=github" alt="PRs"/>
+  <img src="https://img.shields.io/badge/PRs%20Total-92%2B-brightgreen?style=for-the-badge&logo=github" alt="PRs"/>
   <img src="https://img.shields.io/badge/Active%20Projects-35%2B-blue?style=for-the-badge&logo=github" alt="Projects"/>
   <img src="https://img.shields.io/badge/Repos-220%2B-orange?style=for-the-badge&logo=github" alt="Repos"/>
   <a href="https://github.com/murataslan1?tab=followers">
@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://github.com/murataslan1/cursor-ai-tips">
-    <img src="https://img.shields.io/badge/cursor--ai--tips-140%2B%20Stars-yellow?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/cursor--ai--tips-152%2B%20Stars-yellow?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://github.com/murataslan1/ai-agent-benchmark">
     <img src="https://img.shields.io/badge/ai--agent--benchmark-NEW-orange?style=for-the-badge&logo=github"/>
@@ -36,13 +36,13 @@
 </p>
 
 <p align="center">
-  <b>⭐ cursor-ai-tips:</b> 140+ Stars — The Ultimate Cursor AI IDE Guide<br>
+  <b>⭐ cursor-ai-tips:</b> 152+ Stars — The Ultimate Cursor AI IDE Guide<br>
   <b>🔥 ai-agent-benchmark:</b> Real-world AI coding tool comparisons from 140+ sources
 </p>
 
 ---
 
-## 🔥 Recent Activities (January 9, 2026)
+## 🔥 Recent Activities (January 15, 2026)
 
 <table>
 <tr>
@@ -52,40 +52,36 @@
 
 | Project | ⭐ Stars | PR | Status |
 |---------|---------|-----|--------|
+| [**cortexlinux/cortex**](https://github.com/cortexlinux/cortex) | 2k | #460 (Docker Fixer) | 💰 Bounty |
 | [**traefik/traefik**](https://github.com/traefik/traefik) | 54k | #12325 (Weight Display) | 💬 Review |
-| [**traefik/traefik**](https://github.com/traefik/traefik) | 54k | #12326 (UI Fix) | ⚠️ Closing |
-| [**cortexlinux/cortex**](https://github.com/cortexlinux/cortex) | 150 | #462 (Pkg Manager) | ✅ Fixed |
-| [**cortexlinux/cortex**](https://github.com/cortexlinux/cortex) | 150 | #463 (Printer Wizard) | ⚠️ Needs Work |
-| [**milvus-io/milvus**](https://github.com/milvus-io/milvus) | 36k | #46159 (fnmatch) | 🔄 Revived |
-| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 40k | #7739, #7817 | ✅ Merged |
-| [**mindsdb/mindsdb**](https://github.com/mindsdb/mindsdb) | 28k | #12004 (S3 Region) | ✅ Approved |
+| [**milvus-io/milvus**](https://github.com/milvus-io/milvus) | 36k | 5 PRs | ✅ Active |
+| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 40k | 14 PRs | ✅ 7+ Merged |
+| [**mindsdb/mindsdb**](https://github.com/mindsdb/mindsdb) | 28k | #12004 (S3 Region) | ✅ Merged |
+| [**denoland/std**](https://github.com/denoland/std) | 3.5k | 2 PRs | ✅ Merged |
+| [**microsoft/vscode**](https://github.com/microsoft/vscode) | 165k | Test Coverage | ✅ Merged |
 
 </td>
 <td width="40%">
 
-### 🚀 January 9 Highlights
+### 🚀 January 2026 Highlights
 
 ```diff
-+ Traefik: Clarified useMemo impl 🐳
-+ Cortex: Fixed lint + conflicts 📦
-+ Cortex: Fixed printer/scanner 🖨️
-+ Milvus: Revived stale PR 🔄
-+ All PRs: Merge conflicts resolved ✅
++ Cortex: Docker Permission Fixer 🐳
++ Coolify: IPv4/IPv6 Validation ✅
++ Deno: CSV & Dedent Fixes 🦕
++ Traefik: ForwardAuth Logging 🔧
++ VS Code: Test improvements 💻
 ```
 
-**🎯 Today's Focus:**
-- 🐳 **Traefik**: Wait for gndz07 review
-- 📦 **Cortex #462**: CI tests running
-- 🖨️ **Cortex #463**: Add tests & docs
-- 🔄 **Milvus**: Fix build conflicts
+**🎯 Active Focus:**
+- 🐳 **Cortex**: Bounty hunt (Docker)
+- 📦 **Coolify**: SSH & Unicode fixes
+- 🔧 **Traefik**: UI improvements
+- 🦕 **Deno**: Standard library
 
-**Active Bounties:**
-- 💰 Cortex #450: Pkg Manager
-- 💰 Cortex #451: Printer Wizard
-
-**Key Learnings:**
-- ⚠️ Always include tests & docs
-- ✅ Proactive conflict resolution
+**Completed Bounties:**
+- 💰 Cortex #460: Docker Fixer
+- 💰 Coolify: $100 SSH Fix
 
 </td>
 </tr>
@@ -103,12 +99,12 @@
 
 | Project | PRs | Status |
 |---------|-----|--------|
-| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 15+ | ✅ 8+ Merged |
+| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 14+ | ✅ 7+ Merged |
 | [**milvus-io/milvus**](https://github.com/milvus-io/milvus) | 5 | 🔧 Active |
 | [**traefik/traefik**](https://github.com/traefik/traefik) | 5 | ✅ 2 Merged |
-| [**denoland/std**](https://github.com/denoland/std) | 2 | 🆕 December |
+| [**denoland/std**](https://github.com/denoland/std) | 2 | ✅ Merged |
+| [**cortexlinux/cortex**](https://github.com/cortexlinux/cortex) | 2 | 💰 Bounty |
 | [**schollz/croc**](https://github.com/schollz/croc) | 3 | 🔄 Open |
-| [**termux/termux-packages**](https://github.com/termux/termux-packages) | 3 | Android Terminal |
 | [**dotnet/aspire**](https://github.com/dotnet/aspire) | 1 | .NET Cloud Stack |
 
 </td>
@@ -161,15 +157,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murataslan1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=murataslan1&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0a0b&title_color=ff6b35&icon_color=ff6b35&text_color=faf9f7" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murataslan1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murataslan1&theme=dark&hide_border=true&background=0a0a0b&ring=ff6b35&fire=ff6b35&currStreakLabel=ff6b35" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murataslan1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murataslan1&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0b&title_color=ff6b35&text_color=faf9f7" alt="Top Languages"/>
 </p>
 
 ---
@@ -218,7 +214,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/murataslan1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/iammurataslan"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://medium.com/@murataslan1"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://murataslan1.github.io"><img src="https://img.shields.io/badge/Portfolio-ff6b35?style=for-the-badge&logo=safari&logoColor=white"/></a>
   <a href="mailto:murataslan0.tr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -231,5 +227,5 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Murat%20Aslan-6AD3F7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Murat%20Aslan-ff6b35?style=flat-square"/>
 </p>
