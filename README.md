@@ -42,7 +42,7 @@
 
 ---
 
-## 🔥 Recent Activities (January 15, 2026)
+## 🔥 Recent Activities (January 20, 2026)
 
 <table>
 <tr>
@@ -58,7 +58,7 @@
 | [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 40k | 14 PRs | ✅ 7+ Merged |
 | [**mindsdb/mindsdb**](https://github.com/mindsdb/mindsdb) | 28k | #12004 (S3 Region) | ✅ Merged |
 | [**denoland/std**](https://github.com/denoland/std) | 3.5k | 2 PRs | ✅ Merged |
-| [**microsoft/vscode**](https://github.com/microsoft/vscode) | 165k | Test Coverage | ✅ Merged |
+| [**microsoft/vscode**](https://github.com/microsoft/vscode) | 165k | 7 Issue Fixes | 🚀 Pushed |
 
 </td>
 <td width="40%">
@@ -70,7 +70,7 @@
 + Coolify: IPv4/IPv6 Validation ✅
 + Deno: CSV & Dedent Fixes 🦕
 + Traefik: ForwardAuth Logging 🔧
-+ VS Code: Test improvements 💻
++ VS Code: 7 Issue Fixes & Tech Debt Cleanup 🧹
 ```
 
 **🎯 Active Focus:**
