@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/90%2B%20PRs-January%202026-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20%7C%20Meta%20%7C%20Traefik%20%7C%20Milvus%20%7C%20Deno-Contributor-blue?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/119%2B%20PRs-February%202026-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20%7C%20Vercel%20%7C%20Biome%20%7C%20Deno%20%7C%20Prisma-Contributor-blue?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs%20Total-92%2B-brightgreen?style=for-the-badge&logo=github" alt="PRs"/>
-  <img src="https://img.shields.io/badge/Active%20Projects-35%2B-blue?style=for-the-badge&logo=github" alt="Projects"/>
-  <img src="https://img.shields.io/badge/Repos-220%2B-orange?style=for-the-badge&logo=github" alt="Repos"/>
+  <img src="https://img.shields.io/badge/PRs%20Total-119%2B-brightgreen?style=for-the-badge&logo=github" alt="PRs"/>
+  <img src="https://img.shields.io/badge/Merged-30%2B-success?style=for-the-badge&logo=github" alt="Merged"/>
+  <img src="https://img.shields.io/badge/Repos-228%2B-orange?style=for-the-badge&logo=github" alt="Repos"/>
   <a href="https://github.com/murataslan1?tab=followers">
     <img src="https://img.shields.io/github/followers/murataslan1?label=Followers&style=for-the-badge&logo=github&color=purple" alt="GitHub Followers"/>
   </a>
@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://github.com/murataslan1/cursor-ai-tips">
-    <img src="https://img.shields.io/badge/cursor--ai--tips-152%2B%20Stars-yellow?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/cursor--ai--tips-169%2B%20Stars-yellow?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://github.com/murataslan1/ai-agent-benchmark">
     <img src="https://img.shields.io/badge/ai--agent--benchmark-NEW-orange?style=for-the-badge&logo=github"/>
@@ -36,13 +36,13 @@
 </p>
 
 <p align="center">
-  <b>⭐ cursor-ai-tips:</b> 152+ Stars — The Ultimate Cursor AI IDE Guide<br>
+  <b>⭐ cursor-ai-tips:</b> 169+ Stars — The Ultimate Cursor AI IDE Guide<br>
   <b>🔥 ai-agent-benchmark:</b> Real-world AI coding tool comparisons from 140+ sources
 </p>
 
 ---
 
-## 🔥 Recent Activities (January 20, 2026)
+## 🔥 Recent Activities (February 2, 2026)
 
 <table>
 <tr>
@@ -52,36 +52,38 @@
 
 | Project | ⭐ Stars | PR | Status |
 |---------|---------|-----|--------|
-| [**cortexlinux/cortex**](https://github.com/cortexlinux/cortex) | 2k | #460 (Docker Fixer) | 💰 Bounty |
-| [**traefik/traefik**](https://github.com/traefik/traefik) | 54k | #12325 (Weight Display) | 💬 Review |
-| [**milvus-io/milvus**](https://github.com/milvus-io/milvus) | 36k | 5 PRs | ✅ Active |
-| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 40k | 14 PRs | ✅ 7+ Merged |
-| [**mindsdb/mindsdb**](https://github.com/mindsdb/mindsdb) | 28k | #12004 (S3 Region) | ✅ Merged |
-| [**denoland/std**](https://github.com/denoland/std) | 3.5k | 2 PRs | ✅ Merged |
-| [**microsoft/vscode**](https://github.com/microsoft/vscode) | 165k | 7 Issue Fixes | 🚀 Pushed |
+| [**microsoft/vscode**](https://github.com/microsoft/vscode) | 165k | 10 PRs | 🚀 3 Merged |
+| [**biomejs/biome**](https://github.com/biomejs/biome) | 17k | 2 PRs | 🔧 Active |
+| [**vercel/next.js**](https://github.com/vercel/next.js) | 132k | #89389 | ⏳ Review |
+| [**prisma/prisma**](https://github.com/prisma/prisma) | 42k | #29055 | ✅ CLA Signed |
+| [**withastro/astro**](https://github.com/withastro/astro) | 50k | #15377 | 🔧 Active |
+| [**denoland/deno**](https://github.com/denoland/deno) | 102k | 2 PRs | ⏳ Review |
+| [**oven-sh/bun**](https://github.com/oven-sh/bun) | 78k | #25376 | 🔧 Active |
 
 </td>
 <td width="40%">
 
-### 🚀 January 2026 Highlights
+### 🚀 February 2026 Highlights
 
 ```diff
-+ Cortex: Docker Permission Fixer 🐳
-+ Coolify: IPv4/IPv6 Validation ✅
-+ Deno: CSV & Dedent Fixes 🦕
-+ Traefik: ForwardAuth Logging 🔧
-+ VS Code: 7 Issue Fixes & Tech Debt Cleanup 🧹
++ VS Code: 10 PRs (3 Merged) 🧹
++ Biome: Linter Fixes ✅
++ Next.js: Error Message UX 📝
++ Astro: Prism Fix 🎨
++ Deno: Runtime Fixes 🦕
++ Bun: Console.assert Fix 🍞
 ```
 
 **🎯 Active Focus:**
-- 🐳 **Cortex**: Bounty hunt (Docker)
-- 📦 **Coolify**: SSH & Unicode fixes
-- 🔧 **Traefik**: UI improvements
-- 🦕 **Deno**: Standard library
+- 💻 **VS Code**: Activity Bar, Themes
+- 🔧 **Biome**: CSS & JS Lint Rules
+- ⚡ **Next.js**: Build Improvements
+- 🦕 **Deno**: Standard Library
 
-**Completed Bounties:**
-- 💰 Cortex #460: Docker Fixer
-- 💰 Coolify: $100 SSH Fix
+**Recent Merges:**
+- ✅ VS Code: Terminal Lifecycle Fixes
+- ✅ Coolify: 7+ Features Merged
+- ✅ LangChain: DeepSeek R1 Support
 
 </td>
 </tr>
@@ -101,11 +103,11 @@
 |---------|-----|--------|
 | [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 14+ | ✅ 7+ Merged |
 | [**milvus-io/milvus**](https://github.com/milvus-io/milvus) | 5 | 🔧 Active |
-| [**traefik/traefik**](https://github.com/traefik/traefik) | 5 | ✅ 2 Merged |
+| [**traefik/traefik**](https://github.com/traefik/traefik) | 5 | ✅ 1 Merged |
 | [**denoland/std**](https://github.com/denoland/std) | 2 | ✅ Merged |
-| [**cortexlinux/cortex**](https://github.com/cortexlinux/cortex) | 2 | 💰 Bounty |
-| [**schollz/croc**](https://github.com/schollz/croc) | 3 | 🔄 Open |
-| [**dotnet/aspire**](https://github.com/dotnet/aspire) | 1 | .NET Cloud Stack |
+| [**schollz/croc**](https://github.com/schollz/croc) | 3 | ✅ 3 Merged |
+| [**dotnet/aspire**](https://github.com/dotnet/aspire) | 1 | ✅ Merged |
+| [**aquasecurity/trivy**](https://github.com/aquasecurity/trivy) | 1 | ✅ Merged |
 
 </td>
 <td width="50%">
@@ -114,13 +116,13 @@
 
 | Project | PRs | Focus |
 |---------|-----|-------|
-| [**langchain-ai/langchainjs**](https://github.com/langchain-ai/langchainjs) | 1 | DeepSeek R1 Support |
-| [**vercel/ai**](https://github.com/vercel/ai) | 1 | Gateway SDK Fix |
-| [**mindsdb/mindsdb**](https://github.com/mindsdb/mindsdb) | 1 | S3 Region Fix |
+| [**langchain-ai/langchainjs**](https://github.com/langchain-ai/langchainjs) | 1 | ✅ DeepSeek R1 |
+| [**vercel/next.js**](https://github.com/vercel/next.js) | 1 | Error Messages |
+| [**mindsdb/mindsdb**](https://github.com/mindsdb/mindsdb) | 2 | S3 & Sheets Fix |
 | [**milvus-io/milvus**](https://github.com/milvus-io/milvus) | 5 | Vector Database |
-| [**facebookresearch/faiss**](https://github.com/facebookresearch/faiss) | 2 | AI Similarity Search |
-| [**OpenBB-finance/OpenBB**](https://github.com/OpenBB-finance/OpenBB) | 2 | Finance Platform |
+| [**OpenBB-finance/OpenBB**](https://github.com/OpenBB-finance/OpenBB) | 1 | ✅ Merged |
 | [**SigNoz/signoz**](https://github.com/SigNoz/signoz) | 5 | Observability |
+| [**prisma/prisma**](https://github.com/prisma/prisma) | 1 | JSDoc Docs |
 
 </td>
 </tr>
@@ -131,9 +133,11 @@
 
 | Project | PRs | Focus |
 |---------|-----|-------|
-| [**microsoft/vscode**](https://github.com/microsoft/vscode) | 8 | Extensions, UI/UX |
-| [**shadcn-ui/ui**](https://github.com/shadcn-ui/ui) | 1 | Tailwind v4 CSS |
-| [**jgraph/drawio-desktop**](https://github.com/jgraph/drawio-desktop) | 3 | Diagramming |
+| [**microsoft/vscode**](https://github.com/microsoft/vscode) | 13 | ✅ 3 Merged |
+| [**biomejs/biome**](https://github.com/biomejs/biome) | 2 | Linter Rules |
+| [**withastro/astro**](https://github.com/withastro/astro) | 1 | Prism Fix |
+| [**shadcn-ui/ui**](https://github.com/shadcn-ui/ui) | 1 | Tailwind v4 |
+| [**jgraph/drawio-desktop**](https://github.com/jgraph/drawio-desktop) | 1 | Auto-update |
 | [**appwrite/appwrite**](https://github.com/appwrite/appwrite) | 1 | Spanish Locale |
 
 </td>
@@ -143,10 +147,12 @@
 
 | Project | PRs | Focus |
 |---------|-----|-------|
-| [**nuclei-templates**](https://github.com/projectdiscovery/nuclei-templates) | 5 | Vuln Templates |
-| [**greenbone/openvas-scanner**](https://github.com/greenbone/openvas-scanner) | 2 | Vulnerability Scanner |
+| [**nuclei-templates**](https://github.com/projectdiscovery/nuclei-templates) | 4 | ✅ Merged |
+| [**greenbone/openvas-scanner**](https://github.com/greenbone/openvas-scanner) | 1 | Credential Validation |
 | [**jj-vcs/jj**](https://github.com/jj-vcs/jj) | 2 | Git Alternative |
-| [**denoland/deno**](https://github.com/denoland/deno) | 1 | Prompt Fix |
+| [**denoland/deno**](https://github.com/denoland/deno) | 2 | Prompt Fix |
+| [**oven-sh/bun**](https://github.com/oven-sh/bun) | 1 | Console Fix |
+| [**microsoft/TypeScript**](https://github.com/microsoft/TypeScript) | 1 | JSDoc Completions |
 
 </td>
 </tr>
