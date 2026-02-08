@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/119%2B%20PRs-February%202026-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/125%2B%20PRs-February%202026-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20%7C%20Vercel%20%7C%20Biome%20%7C%20Deno%20%7C%20Prisma-Contributor-blue?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs%20Total-119%2B-brightgreen?style=for-the-badge&logo=github" alt="PRs"/>
-  <img src="https://img.shields.io/badge/Merged-30%2B-success?style=for-the-badge&logo=github" alt="Merged"/>
-  <img src="https://img.shields.io/badge/Repos-228%2B-orange?style=for-the-badge&logo=github" alt="Repos"/>
+  <img src="https://img.shields.io/badge/PRs%20Total-125%2B-brightgreen?style=for-the-badge&logo=github" alt="PRs"/>
+  <img src="https://img.shields.io/badge/Merged-31%2B-success?style=for-the-badge&logo=github" alt="Merged"/>
+  <img src="https://img.shields.io/badge/Repos-230%2B-orange?style=for-the-badge&logo=github" alt="Repos"/>
   <a href="https://github.com/murataslan1?tab=followers">
     <img src="https://img.shields.io/github/followers/murataslan1?label=Followers&style=for-the-badge&logo=github&color=purple" alt="GitHub Followers"/>
   </a>
@@ -42,7 +42,7 @@
 
 ---
 
-## 🔥 Recent Activities (February 2, 2026)
+## 🔥 Recent Activities (February 9, 2026)
 
 <table>
 <tr>
@@ -82,8 +82,9 @@
 
 **Recent Merges:**
 - ✅ VS Code: Terminal Lifecycle Fixes
-- ✅ Coolify: 7+ Features Merged
+- ✅ Coolify: 8+ Features Merged
 - ✅ LangChain: DeepSeek R1 Support
+- ✅ Croc: SOCKS5 Proxy Support
 
 </td>
 </tr>
@@ -109,11 +110,11 @@
 
 | Project | PRs | Status |
 |---------|-----|--------|
-| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 14+ | ✅ 7+ Merged |
+| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 16+ | ✅ 8+ Merged |
 | [**milvus-io/milvus**](https://github.com/milvus-io/milvus) | 5 | 🔧 Active |
 | [**traefik/traefik**](https://github.com/traefik/traefik) | 5 | ✅ 1 Merged |
 | [**denoland/std**](https://github.com/denoland/std) | 2 | ✅ Merged |
-| [**schollz/croc**](https://github.com/schollz/croc) | 3 | ✅ 3 Merged |
+| [**schollz/croc**](https://github.com/schollz/croc) | 4 | ✅ 4 Merged |
 | [**dotnet/aspire**](https://github.com/dotnet/aspire) | 1 | ✅ Merged |
 | [**aquasecurity/trivy**](https://github.com/aquasecurity/trivy) | 1 | ✅ Merged |
 
