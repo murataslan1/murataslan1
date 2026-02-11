@@ -97,10 +97,9 @@
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
-- **Feb 9** - Opened PR [#294013](undefined) in [microsoft/vscode](https://github.com/microsoft/vscode): undefined
-- **Feb 9** - Created branch `fix/issue-180317-shallow-clone` in [murataslan1/vscode](https://github.com/murataslan1/vscode)
-- **Feb 9** - Created branch `fix/enhance-debug-logs` in [murataslan1/milvus](https://github.com/murataslan1/milvus)
-- **Feb 9** - Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
+- **Feb 10** - Opened PR [#65386](undefined) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore): undefined
+- **Feb 10** - Created branch `fix/pnpm-support-spaproxy` in [murataslan1/aspnetcore](https://github.com/murataslan1/aspnetcore)
+- **Feb 10** - Forked [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
 
 <!-- ACTIVITY_END -->
 
