@@ -97,7 +97,7 @@
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
-- **Feb 11** - Starred [carlvellotti/claude-code-pm-course](https://github.com/carlvellotti/claude-code-pm-course)
+- **Feb 12** - Starred [excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp)
 
 <!-- ACTIVITY_END -->
 
