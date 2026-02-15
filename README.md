@@ -96,9 +96,6 @@
 
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
-
-- **Feb 13** - Starred [MiniMax-AI/MiniMax-M2.5](https://github.com/MiniMax-AI/MiniMax-M2.5)
-
 <!-- ACTIVITY_END -->
 
 ---
