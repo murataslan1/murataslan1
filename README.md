@@ -97,16 +97,16 @@
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
-- **Feb 19** - Merged PR [#292257](undefined) in [microsoft/vscode](https://github.com/microsoft/vscode): undefined
-- **Feb 19** - Opened PR [#296358](undefined) in [microsoft/vscode](https://github.com/microsoft/vscode): undefined
-- **Feb 19** - Created branch `feat/145890-pane-resize` in [murataslan1/vscode](https://github.com/murataslan1/vscode)
-- **Feb 19** - Commented on issue [#292257](https://github.com/microsoft/vscode/pull/292257#issuecomment-3929392043) in [microsoft/vscode](https://github.com/microsoft/vscode)
-- **Feb 19** - Reopened PR [#65386](undefined) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore): undefined
-- **Feb 19** - Closed PR [#65386](undefined) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore): undefined
-- **Feb 19** - Commented on issue [#65386](https://github.com/dotnet/aspnetcore/pull/65386#issuecomment-3929325163) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
-- **Feb 19** - Pushed 0 commits to `feat/testing-running-badge` in [murataslan1/vscode](https://github.com/murataslan1/vscode)
-- **Feb 19** - Commented on issue [#65386](https://github.com/dotnet/aspnetcore/pull/65386#issuecomment-3929302677) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
-- **Feb 19** - Pushed 0 commits to `main` in [murataslan1/murataslan1.github.io](https://github.com/murataslan1/murataslan1.github.io)
+- **Feb 20** - Commented on issue [#293395](https://github.com/microsoft/vscode/pull/293395#issuecomment-3936629521) in [microsoft/vscode](https://github.com/microsoft/vscode)
+- **Feb 20** - Pushed 0 commits to `fix/issue-268301-custom-editor-retry` in [murataslan1/vscode](https://github.com/murataslan1/vscode)
+- **Feb 20** - Commented on issue [#8947](https://github.com/biomejs/biome/pull/8947#issuecomment-3936490697) in [biomejs/biome](https://github.com/biomejs/biome)
+- **Feb 20** - Commented on issue [#8946](https://github.com/biomejs/biome/pull/8946#issuecomment-3936490695) in [biomejs/biome](https://github.com/biomejs/biome)
+- **Feb 20** - Commented on issue [#89389](https://github.com/vercel/next.js/pull/89389#issuecomment-3936449238) in [vercel/next.js](https://github.com/vercel/next.js)
+- **Feb 20** - Commented on issue [#89389](https://github.com/vercel/next.js/pull/89389#issuecomment-3936444128) in [vercel/next.js](https://github.com/vercel/next.js)
+- **Feb 20** - Pushed 0 commits to `fix/getstaticpaths-error-message` in [murataslan1/next.js](https://github.com/murataslan1/next.js)
+- **Feb 20** - Commented on issue [#8947](https://github.com/biomejs/biome/pull/8947#issuecomment-3936339119) in [biomejs/biome](https://github.com/biomejs/biome)
+- **Feb 20** - Commented on issue [#8946](https://github.com/biomejs/biome/pull/8946#issuecomment-3936339126) in [biomejs/biome](https://github.com/biomejs/biome)
+- **Feb 20** - Commented on issue [#296055](https://github.com/microsoft/vscode/pull/296055#issuecomment-3936330083) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!-- ACTIVITY_END -->
 
