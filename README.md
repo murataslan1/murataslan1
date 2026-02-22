@@ -97,16 +97,16 @@
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
-- **Feb 20** - Commented on issue [#293395](https://github.com/microsoft/vscode/pull/293395#issuecomment-3936629521) in [microsoft/vscode](https://github.com/microsoft/vscode)
-- **Feb 20** - Pushed 0 commits to `fix/issue-268301-custom-editor-retry` in [murataslan1/vscode](https://github.com/murataslan1/vscode)
-- **Feb 20** - Commented on issue [#8947](https://github.com/biomejs/biome/pull/8947#issuecomment-3936490697) in [biomejs/biome](https://github.com/biomejs/biome)
-- **Feb 20** - Commented on issue [#8946](https://github.com/biomejs/biome/pull/8946#issuecomment-3936490695) in [biomejs/biome](https://github.com/biomejs/biome)
-- **Feb 20** - Commented on issue [#89389](https://github.com/vercel/next.js/pull/89389#issuecomment-3936449238) in [vercel/next.js](https://github.com/vercel/next.js)
-- **Feb 20** - Commented on issue [#89389](https://github.com/vercel/next.js/pull/89389#issuecomment-3936444128) in [vercel/next.js](https://github.com/vercel/next.js)
-- **Feb 20** - Pushed 0 commits to `fix/getstaticpaths-error-message` in [murataslan1/next.js](https://github.com/murataslan1/next.js)
-- **Feb 20** - Commented on issue [#8947](https://github.com/biomejs/biome/pull/8947#issuecomment-3936339119) in [biomejs/biome](https://github.com/biomejs/biome)
-- **Feb 20** - Commented on issue [#8946](https://github.com/biomejs/biome/pull/8946#issuecomment-3936339126) in [biomejs/biome](https://github.com/biomejs/biome)
-- **Feb 20** - Commented on issue [#296055](https://github.com/microsoft/vscode/pull/296055#issuecomment-3936330083) in [microsoft/vscode](https://github.com/microsoft/vscode)
+- **Feb 21** - Commented on PR [#5724](https://github.com/xtermjs/xterm.js/pull/5724#discussion_r2836380827) in [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js)
+- **Feb 21** - Reviewed PR [#5724](https://github.com/xtermjs/xterm.js/pull/5724#pullrequestreview-3835716711) in [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js)
+- **Feb 21** - Pushed 0 commits to `feat/2464-renderer-font-aliasing` in [murataslan1/xterm.js](https://github.com/murataslan1/xterm.js)
+- **Feb 21** - Commented on issue [#5724](https://github.com/xtermjs/xterm.js/pull/5724#issuecomment-3939026846) in [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js)
+- **Feb 21** - Commented on issue [#296448](https://github.com/microsoft/vscode/pull/296448#issuecomment-3939026805) in [microsoft/vscode](https://github.com/microsoft/vscode)
+- **Feb 21** - Commented on issue [#296055](https://github.com/microsoft/vscode/pull/296055#issuecomment-3939026001) in [microsoft/vscode](https://github.com/microsoft/vscode)
+- **Feb 21** - Pushed 0 commits to `fix/295327-copilot-scroll` in [murataslan1/vscode](https://github.com/murataslan1/vscode)
+- **Feb 21** - Commented on PR [#8946](https://github.com/biomejs/biome/pull/8946#discussion_r2835843204) in [biomejs/biome](https://github.com/biomejs/biome)
+- **Feb 21** - Reviewed PR [#8946](https://github.com/biomejs/biome/pull/8946#pullrequestreview-3835058534) in [biomejs/biome](https://github.com/biomejs/biome)
+- **Feb 21** - Commented on issue [#8946](https://github.com/biomejs/biome/pull/8946#issuecomment-3938188400) in [biomejs/biome](https://github.com/biomejs/biome)
 
 <!-- ACTIVITY_END -->
 
