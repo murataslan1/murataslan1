@@ -96,9 +96,6 @@
 
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
-
-- **Mar 1** - Pushed 0 commits to `gh-pages` in [murataslan1/murataslan1.github.io](https://github.com/murataslan1/murataslan1.github.io)
-
 <!-- ACTIVITY_END -->
 
 ---
