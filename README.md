@@ -97,15 +97,9 @@
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
-- **Mar 4** - Commented on issue [#2082](https://github.com/greenbone/openvas-scanner/pull/2082#issuecomment-3995552879) in [greenbone/openvas-scanner](https://github.com/greenbone/openvas-scanner)
-- **Mar 4** - Pushed 0 commits to `fix/getstaticpaths-error-message` in [murataslan1/next.js](https://github.com/murataslan1/next.js)
-- **Mar 4** - Commented on issue [#2082](https://github.com/greenbone/openvas-scanner/pull/2082#issuecomment-3995416793) in [greenbone/openvas-scanner](https://github.com/greenbone/openvas-scanner)
-- **Mar 4** - Pushed 0 commits to `fix-duplicate-credential-service-validation` in [murataslan1/openvas-scanner](https://github.com/murataslan1/openvas-scanner)
-- **Mar 4** - Commented on issue [#89389](https://github.com/vercel/next.js/pull/89389#issuecomment-3995410289) in [vercel/next.js](https://github.com/vercel/next.js)
-- **Mar 4** - Pushed 0 commits to `fix/getstaticpaths-error-message` in [murataslan1/next.js](https://github.com/murataslan1/next.js)
-- **Mar 4** - Commented on issue [#65386](https://github.com/dotnet/aspnetcore/pull/65386#issuecomment-3995342122) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
-- **Mar 4** - Commented on issue [#296448](https://github.com/microsoft/vscode/pull/296448#issuecomment-3995340969) in [microsoft/vscode](https://github.com/microsoft/vscode)
-- **Mar 4** - Commented on issue [#46159](https://github.com/milvus-io/milvus/pull/46159#issuecomment-3995339858) in [milvus-io/milvus](https://github.com/milvus-io/milvus)
+- **Mar 5** - Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)
+- **Mar 5** - Starred [aitytech/agentkits-marketing](https://github.com/aitytech/agentkits-marketing)
+- **Mar 5** - Starred [devsemih/appstore-review-skill](https://github.com/devsemih/appstore-review-skill)
 
 <!-- ACTIVITY_END -->
 
