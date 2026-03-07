@@ -97,9 +97,9 @@
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
-- **Mar 5** - Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)
-- **Mar 5** - Starred [aitytech/agentkits-marketing](https://github.com/aitytech/agentkits-marketing)
-- **Mar 5** - Starred [devsemih/appstore-review-skill](https://github.com/devsemih/appstore-review-skill)
+- **Mar 6** - Created branch `main` in [murataslan1/claude-code-training](https://github.com/murataslan1/claude-code-training)
+- **Mar 6** - Starred [huggingface/kernels](https://github.com/huggingface/kernels)
+- **Mar 6** - Starred [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
 
 <!-- ACTIVITY_END -->
 
