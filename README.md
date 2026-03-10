@@ -96,10 +96,6 @@
 
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
-
-- **Mar 8** - Starred [lxsiii/taco](https://github.com/lxsiii/taco)
-- **Mar 8** - Created branch `feat/terminal-smart-paste` in [murataslan1/vscode](https://github.com/murataslan1/vscode)
-
 <!-- ACTIVITY_END -->
 
 ---
