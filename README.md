@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/125%2B%20PRs-February%202026-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/143%2B%20PRs-March%202026-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20%7C%20Vercel%20%7C%20Biome%20%7C%20Deno%20%7C%20Prisma-Contributor-blue?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs%20Total-125%2B-brightgreen?style=for-the-badge&logo=github" alt="PRs"/>
-  <img src="https://img.shields.io/badge/Merged-31%2B-success?style=for-the-badge&logo=github" alt="Merged"/>
+  <img src="https://img.shields.io/badge/PRs%20Total-143%2B-brightgreen?style=for-the-badge&logo=github" alt="PRs"/>
+  <img src="https://img.shields.io/badge/Merged-35%2B-success?style=for-the-badge&logo=github" alt="Merged"/>
   <img src="https://img.shields.io/badge/Repos-230%2B-orange?style=for-the-badge&logo=github" alt="Repos"/>
   <a href="https://github.com/murataslan1?tab=followers">
     <img src="https://img.shields.io/github/followers/murataslan1?label=Followers&style=for-the-badge&logo=github&color=purple" alt="GitHub Followers"/>
@@ -28,21 +28,21 @@
 
 <p align="center">
   <a href="https://github.com/murataslan1/cursor-ai-tips">
-    <img src="https://img.shields.io/badge/cursor--ai--tips-169%2B%20Stars-yellow?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/cursor--ai--tips-201%2B%20Stars-yellow?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://github.com/murataslan1/ai-agent-benchmark">
-    <img src="https://img.shields.io/badge/ai--agent--benchmark-NEW-orange?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/ai--agent--benchmark-17%2B%20Stars-orange?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 <p align="center">
-  <b>⭐ cursor-ai-tips:</b> 169+ Stars — The Ultimate Cursor AI IDE Guide<br>
+  <b>⭐ cursor-ai-tips:</b> 201+ Stars — The Ultimate Cursor AI IDE Guide<br>
   <b>🔥 ai-agent-benchmark:</b> Real-world AI coding tool comparisons from 140+ sources
 </p>
 
 ---
 
-## 🔥 Recent Activities (February 9, 2026)
+## 🔥 Recent Activities (March 11, 2026)
 
 <table>
 <tr>
@@ -52,39 +52,44 @@
 
 | Project | ⭐ Stars | PR | Status |
 |---------|---------|-----|--------|
-| [**microsoft/vscode**](https://github.com/microsoft/vscode) | 165k | 10 PRs | 🚀 3 Merged |
-| [**biomejs/biome**](https://github.com/biomejs/biome) | 17k | 2 PRs | 🔧 Active |
-| [**vercel/next.js**](https://github.com/vercel/next.js) | 132k | #89389 | ⏳ Review |
-| [**prisma/prisma**](https://github.com/prisma/prisma) | 42k | #29055 | ✅ CLA Signed |
-| [**withastro/astro**](https://github.com/withastro/astro) | 50k | #15377 | 🔧 Active |
-| [**denoland/deno**](https://github.com/denoland/deno) | 102k | 2 PRs | ⏳ Review |
-| [**oven-sh/bun**](https://github.com/oven-sh/bun) | 78k | #25376 | 🔧 Active |
+| [**microsoft/vscode**](https://github.com/microsoft/vscode) | 183k | 15 PRs | 🚀 4 Merged |
+| [**biomejs/biome**](https://github.com/biomejs/biome) | 24k | 2 PRs | 🔧 Active |
+| [**vercel/next.js**](https://github.com/vercel/next.js) | 138k | #89389 | ⏳ Review |
+| [**prisma/prisma**](https://github.com/prisma/prisma) | 45k | #29055 | ✅ CLA Signed |
+| [**withastro/astro**](https://github.com/withastro/astro) | 57k | #15377 | 🔧 Active |
+| [**denoland/deno**](https://github.com/denoland/deno) | 106k | 2 PRs | ⏳ Review |
+| [**oven-sh/bun**](https://github.com/oven-sh/bun) | 88k | #25376 | 🔧 Active |
+| [**xtermjs/xterm.js**](https://github.com/xtermjs/xterm.js) | 18k | 2 PRs | 🔧 Active |
+| [**dotnet/aspnetcore**](https://github.com/dotnet/aspnetcore) | 36k | #65386 | ⏳ Review |
 
 </td>
 <td width="40%">
 
-### 🚀 February 2026 Highlights
+### 🚀 March 2026 Highlights
 
 ```diff
-+ VS Code: 10 PRs (3 Merged) 🧹
++ VS Code: 15 PRs (4 Merged) 🧹
 + Biome: Linter Fixes ✅
 + Next.js: Error Message UX 📝
-+ Astro: Prism Fix 🎨
++ Changesets: Parser Fix ✅ Merged
++ xterm.js: Font & Keyboard Options 🔧
 + Deno: Runtime Fixes 🦕
 + Bun: Console.assert Fix 🍞
++ ASP.NET Core: pnpm Fix ⚡
 ```
 
 **🎯 Active Focus:**
-- 💻 **VS Code**: Activity Bar, Themes
+- 💻 **VS Code**: Activity Bar, Themes, Editor Resize
 - 🔧 **Biome**: CSS & JS Lint Rules
-- ⚡ **Next.js**: Build Improvements
+- ⚡ **xterm.js**: Font Aliasing, Keyboard
 - 🦕 **Deno**: Standard Library
 
 **Recent Merges:**
-- ✅ VS Code: Terminal Lifecycle Fixes
-- ✅ Coolify: 8+ Features Merged
-- ✅ LangChain: DeepSeek R1 Support
-- ✅ Croc: SOCKS5 Proxy Support
+- ✅ VS Code: Terminal Lifecycle + Testing Badge
+- ✅ Coolify: 7+ Features Merged
+- ✅ Changesets: Parser Error Messages
+- ✅ Croc: SOCKS5 Proxy + BusyBox
+- ✅ MindsDB: S3 Region Fix
 
 </td>
 </tr>
@@ -97,7 +102,7 @@
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
-- **Mar 10** - Merged PR [#12004](undefined) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb): undefined
+- **Mar 10** - Merged PR [#12004](https://github.com/mindsdb/mindsdb/pull/12004) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb): fix(s3): handle us-east-1 region returning None
 - **Mar 10** - Starred [onurpolat05/ALBA](https://github.com/onurpolat05/ALBA)
 
 <!-- ACTIVITY_END -->
@@ -114,13 +119,14 @@
 
 | Project | PRs | Status |
 |---------|-----|--------|
-| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 16+ | ✅ 8+ Merged |
-| [**milvus-io/milvus**](https://github.com/milvus-io/milvus) | 5 | 🔧 Active |
+| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 25+ | ✅ 7+ Merged |
+| [**milvus-io/milvus**](https://github.com/milvus-io/milvus) | 7 | 🔧 Active |
 | [**traefik/traefik**](https://github.com/traefik/traefik) | 5 | ✅ 1 Merged |
 | [**denoland/std**](https://github.com/denoland/std) | 2 | ✅ Merged |
 | [**schollz/croc**](https://github.com/schollz/croc) | 4 | ✅ 4 Merged |
 | [**dotnet/aspire**](https://github.com/dotnet/aspire) | 1 | ✅ Merged |
-| [**aquasecurity/trivy**](https://github.com/aquasecurity/trivy) | 1 | ✅ Merged |
+| [**aquasecurity/trivy**](https://github.com/aquasecurity/trivy) | 2 | ✅ Merged |
+| [**termux/termux-packages**](https://github.com/termux/termux-packages) | 2 | ✅ 2 Merged |
 
 </td>
 <td width="50%">
@@ -131,11 +137,12 @@
 |---------|-----|-------|
 | [**langchain-ai/langchainjs**](https://github.com/langchain-ai/langchainjs) | 1 | ✅ DeepSeek R1 |
 | [**vercel/next.js**](https://github.com/vercel/next.js) | 1 | Error Messages |
-| [**mindsdb/mindsdb**](https://github.com/mindsdb/mindsdb) | 2 | S3 & Sheets Fix |
-| [**milvus-io/milvus**](https://github.com/milvus-io/milvus) | 5 | Vector Database |
-| [**OpenBB-finance/OpenBB**](https://github.com/OpenBB-finance/OpenBB) | 1 | ✅ Merged |
+| [**mindsdb/mindsdb**](https://github.com/mindsdb/mindsdb) | 2 | ✅ S3 Region Fix |
+| [**milvus-io/milvus**](https://github.com/milvus-io/milvus) | 7 | Vector Database |
+| [**OpenBB-finance/OpenBB**](https://github.com/OpenBB-finance/OpenBB) | 2 | ✅ 1 Merged |
 | [**SigNoz/signoz**](https://github.com/SigNoz/signoz) | 5 | Observability |
 | [**prisma/prisma**](https://github.com/prisma/prisma) | 1 | JSDoc Docs |
+| [**supabase/supabase**](https://github.com/supabase/supabase) | 1 | SvelteKit SSR |
 
 </td>
 </tr>
@@ -146,12 +153,14 @@
 
 | Project | PRs | Focus |
 |---------|-----|-------|
-| [**microsoft/vscode**](https://github.com/microsoft/vscode) | 13 | ✅ 3 Merged |
+| [**microsoft/vscode**](https://github.com/microsoft/vscode) | 15 | ✅ 4 Merged |
 | [**biomejs/biome**](https://github.com/biomejs/biome) | 2 | Linter Rules |
 | [**withastro/astro**](https://github.com/withastro/astro) | 1 | Prism Fix |
 | [**shadcn-ui/ui**](https://github.com/shadcn-ui/ui) | 1 | Tailwind v4 |
 | [**jgraph/drawio-desktop**](https://github.com/jgraph/drawio-desktop) | 1 | Auto-update |
 | [**appwrite/appwrite**](https://github.com/appwrite/appwrite) | 1 | Spanish Locale |
+| [**xtermjs/xterm.js**](https://github.com/xtermjs/xterm.js) | 2 | Font & Keyboard |
+| [**parcel-bundler/parcel**](https://github.com/parcel-bundler/parcel) | 1 | UTF-8 BOM Fix |
 
 </td>
 <td width="50%">
@@ -166,6 +175,8 @@
 | [**denoland/deno**](https://github.com/denoland/deno) | 2 | Prompt Fix |
 | [**oven-sh/bun**](https://github.com/oven-sh/bun) | 1 | Console Fix |
 | [**microsoft/TypeScript**](https://github.com/microsoft/TypeScript) | 1 | JSDoc Completions |
+| [**changesets/changesets**](https://github.com/changesets/changesets) | 1 | ✅ Parser Fix |
+| [**dotnet/aspnetcore**](https://github.com/dotnet/aspnetcore) | 1 | pnpm Windows Fix |
 
 </td>
 </tr>
