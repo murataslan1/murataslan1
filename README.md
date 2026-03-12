@@ -102,8 +102,16 @@
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
-- **Mar 10** - Merged PR [#12004](https://github.com/mindsdb/mindsdb/pull/12004) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb): fix(s3): handle us-east-1 region returning None
-- **Mar 10** - Starred [onurpolat05/ALBA](https://github.com/onurpolat05/ALBA)
+- **Mar 11** - Opened PR [#300920](undefined) in [microsoft/vscode](https://github.com/microsoft/vscode): undefined
+- **Mar 11** - Created branch `feat/move-line-skip-fold` in [murataslan1/vscode](https://github.com/murataslan1/vscode)
+- **Mar 11** - Merged PR [#292258](undefined) in [microsoft/vscode](https://github.com/microsoft/vscode): undefined
+- **Mar 11** - Opened PR [#300913](undefined) in [microsoft/vscode](https://github.com/microsoft/vscode): undefined
+- **Mar 11** - Created branch `feat/markdown-image-root` in [murataslan1/vscode](https://github.com/murataslan1/vscode)
+- **Mar 11** - Opened PR [#300909](undefined) in [microsoft/vscode](https://github.com/microsoft/vscode): undefined
+- **Mar 11** - Created branch `feat/show-folded-line-count` in [murataslan1/vscode](https://github.com/murataslan1/vscode)
+- **Mar 11** - Opened PR [#300898](undefined) in [microsoft/vscode](https://github.com/microsoft/vscode): undefined
+- **Mar 11** - Created branch `feat/snippet-user-variables` in [murataslan1/vscode](https://github.com/murataslan1/vscode)
+- **Mar 11** - Opened PR [#300887](undefined) in [microsoft/vscode](https://github.com/microsoft/vscode): undefined
 
 <!-- ACTIVITY_END -->
 
