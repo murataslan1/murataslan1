@@ -102,9 +102,9 @@
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
-- **Mar 16** - Starred [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)
-- **Mar 16** - Starred [garrytan/gstack](https://github.com/garrytan/gstack)
-- **Mar 16** - Starred [ComposioHQ/agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator)
+- **Mar 17** - Starred [mertagalday/tool_sei](https://github.com/mertagalday/tool_sei)
+- **Mar 17** - Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
+- **Mar 17** - Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
 
 <!-- ACTIVITY_END -->
 
