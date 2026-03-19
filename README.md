@@ -102,9 +102,8 @@
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
-- **Mar 17** - Starred [mertagalday/tool_sei](https://github.com/mertagalday/tool_sei)
-- **Mar 17** - Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
-- **Mar 17** - Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
+- **Mar 18** - Starred [tomismeta/aperture](https://github.com/tomismeta/aperture)
+- **Mar 18** - Starred [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
 
 <!-- ACTIVITY_END -->
 
