@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/143%2B%20PRs-March%202026-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/160%2B%20PRs-March%202026-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20%7C%20Vercel%20%7C%20Biome%20%7C%20Deno%20%7C%20Prisma-Contributor-blue?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs%20Total-143%2B-brightgreen?style=for-the-badge&logo=github" alt="PRs"/>
-  <img src="https://img.shields.io/badge/Merged-35%2B-success?style=for-the-badge&logo=github" alt="Merged"/>
-  <img src="https://img.shields.io/badge/Repos-230%2B-orange?style=for-the-badge&logo=github" alt="Repos"/>
+  <img src="https://img.shields.io/badge/PRs%20Total-160%2B-brightgreen?style=for-the-badge&logo=github" alt="PRs"/>
+  <img src="https://img.shields.io/badge/Merged-37%2B-success?style=for-the-badge&logo=github" alt="Merged"/>
+  <img src="https://img.shields.io/badge/Repos-234-orange?style=for-the-badge&logo=github" alt="Repos"/>
   <a href="https://github.com/murataslan1?tab=followers">
     <img src="https://img.shields.io/github/followers/murataslan1?label=Followers&style=for-the-badge&logo=github&color=purple" alt="GitHub Followers"/>
   </a>
@@ -28,21 +28,21 @@
 
 <p align="center">
   <a href="https://github.com/murataslan1/cursor-ai-tips">
-    <img src="https://img.shields.io/badge/cursor--ai--tips-201%2B%20Stars-yellow?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/cursor--ai--tips-211%2B%20Stars-yellow?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://github.com/murataslan1/ai-agent-benchmark">
-    <img src="https://img.shields.io/badge/ai--agent--benchmark-17%2B%20Stars-orange?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/ai--agent--benchmark-18%2B%20Stars-orange?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 <p align="center">
-  <b>⭐ cursor-ai-tips:</b> 201+ Stars — The Ultimate Cursor AI IDE Guide<br>
+  <b>⭐ cursor-ai-tips:</b> 211+ Stars — The Ultimate Cursor AI IDE Guide<br>
   <b>🔥 ai-agent-benchmark:</b> Real-world AI coding tool comparisons from 140+ sources
 </p>
 
 ---
 
-## 🔥 Recent Activities (March 11, 2026)
+## 🔥 Recent Activities (March 19, 2026)
 
 <table>
 <tr>
@@ -52,7 +52,7 @@
 
 | Project | ⭐ Stars | PR | Status |
 |---------|---------|-----|--------|
-| [**microsoft/vscode**](https://github.com/microsoft/vscode) | 183k | 15 PRs | 🚀 4 Merged |
+| [**microsoft/vscode**](https://github.com/microsoft/vscode) | 183k | 18 PRs | 🚀 5 Merged |
 | [**biomejs/biome**](https://github.com/biomejs/biome) | 24k | 2 PRs | 🔧 Active |
 | [**vercel/next.js**](https://github.com/vercel/next.js) | 138k | #89389 | ⏳ Review |
 | [**prisma/prisma**](https://github.com/prisma/prisma) | 45k | #29055 | ✅ CLA Signed |
@@ -68,7 +68,7 @@
 ### 🚀 March 2026 Highlights
 
 ```diff
-+ VS Code: 15 PRs (4 Merged) 🧹
++ VS Code: 18 PRs (5 Merged) 🧹
 + Biome: Linter Fixes ✅
 + Next.js: Error Message UX 📝
 + Changesets: Parser Fix ✅ Merged
@@ -85,6 +85,7 @@
 - 🦕 **Deno**: Standard Library
 
 **Recent Merges:**
+- ✅ VS Code: Parameter Hints Wrap Fix (merged by @mjbvz)
 - ✅ VS Code: Terminal Lifecycle + Testing Badge
 - ✅ Coolify: 7+ Features Merged
 - ✅ Changesets: Parser Error Messages
@@ -102,6 +103,8 @@
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
+- **Mar 19** - Pushed to [murataslan1/milvus](https://github.com/murataslan1/milvus) (rebase)
+- **Mar 19** - Commented on [milvus-io/milvus](https://github.com/milvus-io/milvus) issues
 - **Mar 18** - Starred [tomismeta/aperture](https://github.com/tomismeta/aperture)
 - **Mar 18** - Starred [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
 
@@ -153,7 +156,7 @@
 
 | Project | PRs | Focus |
 |---------|-----|-------|
-| [**microsoft/vscode**](https://github.com/microsoft/vscode) | 15 | ✅ 4 Merged |
+| [**microsoft/vscode**](https://github.com/microsoft/vscode) | 18 | ✅ 5 Merged |
 | [**biomejs/biome**](https://github.com/biomejs/biome) | 2 | Linter Rules |
 | [**withastro/astro**](https://github.com/withastro/astro) | 1 | Prism Fix |
 | [**shadcn-ui/ui**](https://github.com/shadcn-ui/ui) | 1 | Tailwind v4 |
