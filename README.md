@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/160%2B%20PRs-March%202026-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20%7C%20Vercel%20%7C%20Biome%20%7C%20Deno%20%7C%20Prisma-Contributor-blue?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/185%2B%20PRs-April%202026-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20%7C%20Vercel%20%7C%20Node.js%20%7C%20Traefik%20%7C%20Biome%20%7C%20Deno-Contributor-blue?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs%20Total-160%2B-brightgreen?style=for-the-badge&logo=github" alt="PRs"/>
-  <img src="https://img.shields.io/badge/Merged-37%2B-success?style=for-the-badge&logo=github" alt="Merged"/>
-  <img src="https://img.shields.io/badge/Repos-234-orange?style=for-the-badge&logo=github" alt="Repos"/>
+  <img src="https://img.shields.io/badge/PRs%20Total-185%2B-brightgreen?style=for-the-badge&logo=github" alt="PRs"/>
+  <img src="https://img.shields.io/badge/Merged-39%2B-success?style=for-the-badge&logo=github" alt="Merged"/>
+  <img src="https://img.shields.io/badge/Repos-245-orange?style=for-the-badge&logo=github" alt="Repos"/>
   <a href="https://github.com/murataslan1?tab=followers">
     <img src="https://img.shields.io/github/followers/murataslan1?label=Followers&style=for-the-badge&logo=github&color=purple" alt="GitHub Followers"/>
   </a>
@@ -28,21 +28,25 @@
 
 <p align="center">
   <a href="https://github.com/murataslan1/cursor-ai-tips">
-    <img src="https://img.shields.io/badge/cursor--ai--tips-211%2B%20Stars-yellow?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/cursor--ai--tips-219%2B%20Stars-yellow?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://github.com/murataslan1/ci-debugger">
+    <img src="https://img.shields.io/badge/ci--debugger-45%2B%20Stars-green?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://github.com/murataslan1/ai-agent-benchmark">
-    <img src="https://img.shields.io/badge/ai--agent--benchmark-18%2B%20Stars-orange?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/ai--agent--benchmark-20%2B%20Stars-orange?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 <p align="center">
-  <b>⭐ cursor-ai-tips:</b> 211+ Stars — The Ultimate Cursor AI IDE Guide<br>
+  <b>⭐ cursor-ai-tips:</b> 219+ Stars — The Ultimate Cursor AI IDE Guide<br>
+  <b>🚀 ci-debugger:</b> 45+ Stars — Debug GitHub Actions Workflows Locally with Breakpoints<br>
   <b>🔥 ai-agent-benchmark:</b> Real-world AI coding tool comparisons from 140+ sources
 </p>
 
 ---
 
-## 🔥 Recent Activities (March 19, 2026)
+## 🔥 Recent Activities (April 2, 2026)
 
 <table>
 <tr>
@@ -52,45 +56,48 @@
 
 | Project | ⭐ Stars | PR | Status |
 |---------|---------|-----|--------|
-| [**microsoft/vscode**](https://github.com/microsoft/vscode) | 183k | 18 PRs | 🚀 5 Merged |
+| [**microsoft/vscode**](https://github.com/microsoft/vscode) | 183k | 41 PRs | 🚀 5 Merged |
+| [**traefik/traefik**](https://github.com/traefik/traefik) | 54k | 6 PRs | ✅ 2 Merged |
+| [**pingdotgg/t3code**](https://github.com/pingdotgg/t3code) | — | 6 PRs | 🔧 Active |
+| [**vercel/ai**](https://github.com/vercel/ai) | 15k | 3 PRs | 🔧 Active |
+| [**nodejs/node**](https://github.com/nodejs/node) | 112k | 2 PRs | ⏳ Review |
 | [**biomejs/biome**](https://github.com/biomejs/biome) | 24k | 2 PRs | 🔧 Active |
 | [**vercel/next.js**](https://github.com/vercel/next.js) | 138k | #89389 | ⏳ Review |
-| [**prisma/prisma**](https://github.com/prisma/prisma) | 45k | #29055 | ✅ CLA Signed |
-| [**withastro/astro**](https://github.com/withastro/astro) | 57k | #15377 | 🔧 Active |
 | [**denoland/deno**](https://github.com/denoland/deno) | 106k | 2 PRs | ⏳ Review |
 | [**oven-sh/bun**](https://github.com/oven-sh/bun) | 88k | #25376 | 🔧 Active |
+| [**openai/codex-plugin-cc**](https://github.com/openai/codex-plugin-cc) | — | 2 PRs | 🔧 Active |
 | [**xtermjs/xterm.js**](https://github.com/xtermjs/xterm.js) | 18k | 2 PRs | 🔧 Active |
 | [**dotnet/aspnetcore**](https://github.com/dotnet/aspnetcore) | 36k | #65386 | ⏳ Review |
 
 </td>
 <td width="40%">
 
-### 🚀 March 2026 Highlights
+### 🚀 April 2026 Highlights
 
 ```diff
-+ VS Code: 18 PRs (5 Merged) 🧹
-+ Biome: Linter Fixes ✅
-+ Next.js: Error Message UX 📝
-+ Changesets: Parser Fix ✅ Merged
-+ xterm.js: Font & Keyboard Options 🔧
-+ Deno: Runtime Fixes 🦕
-+ Bun: Console.assert Fix 🍞
-+ ASP.NET Core: pnpm Fix ⚡
++ VS Code: 41 PRs (5 Merged) 🧹
++ Traefik: 6 PRs (2 Merged) ⚡
++ T3Code: 6 PRs — Terminal & UI 🔧
++ Vercel AI SDK: 3 PRs — MCP & Provider 🤖
++ Node.js: test_runner improvements 🟢
++ prompts.chat: CLI Fix ✅ Merged
++ Codex Plugin: ANSI & Symlink Fixes 🔌
++ LangChain.js: Atomic Write Fix 🔗
 ```
 
 **🎯 Active Focus:**
-- 💻 **VS Code**: Activity Bar, Themes, Editor Resize
-- 🔧 **Biome**: CSS & JS Lint Rules
-- ⚡ **xterm.js**: Font Aliasing, Keyboard
-- 🦕 **Deno**: Standard Library
+- 💻 **VS Code**: Folding, Snippets, SCM, Git
+- ⚡ **Traefik**: CRD, Docker, SameSite
+- 🖥️ **T3Code**: Terminal, Checkpoint, Mobile
+- 🤖 **Vercel AI**: MCP OAuth, Error Handling
 
 **Recent Merges:**
-- ✅ VS Code: Parameter Hints Wrap Fix (merged by @mjbvz)
-- ✅ VS Code: Terminal Lifecycle + Testing Badge
+- ✅ prompts.chat: CLI full_content Param Fix
+- ✅ Traefik: SameSite + Docker Fixes
+- ✅ VS Code: Parameter Hints, Terminal, Badge
 - ✅ Coolify: 7+ Features Merged
 - ✅ Changesets: Parser Error Messages
 - ✅ Croc: SOCKS5 Proxy + BusyBox
-- ✅ MindsDB: S3 Region Fix
 
 </td>
 </tr>
@@ -103,16 +110,14 @@
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
-- **Apr 1** - Merged PR [#1122](undefined) in [f/prompts.chat](https://github.com/f/prompts.chat): undefined
-- **Apr 1** - Opened PR [#12924](undefined) in [traefik/traefik](https://github.com/traefik/traefik): undefined
-- **Apr 1** - Created branch `fix/crd-priority-max-float64-safe` in [murataslan1/traefik](https://github.com/murataslan1/traefik)
-- **Apr 1** - Opened PR [#12923](undefined) in [traefik/traefik](https://github.com/traefik/traefik): undefined
-- **Apr 1** - Created branch `fix/docker-inspect-not-found-log-level` in [murataslan1/traefik](https://github.com/murataslan1/traefik)
-- **Apr 1** - Opened PR [#12922](undefined) in [traefik/traefik](https://github.com/traefik/traefik): undefined
-- **Apr 1** - Created branch `fix/samesite-case-insensitive` in [murataslan1/traefik](https://github.com/murataslan1/traefik)
+- **Apr 2** - Commented on PR in [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs): fix atomic write in LocalFileStore
+- **Apr 2** - Commented on PRs in [vercel/ai](https://github.com/vercel/ai): MCP OAuth & error type fixes
+- **Apr 2** - Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)
+- **Apr 1** - Merged PR [#1122](https://github.com/f/prompts.chat/pull/1122) in [f/prompts.chat](https://github.com/f/prompts.chat): fix(cli): add missing full_content param to API URL
+- **Apr 1** - Opened PR [#12924](https://github.com/traefik/traefik/pull/12924) in [traefik/traefik](https://github.com/traefik/traefik): Use float64-safe maximum for Priority in CRD definitions
+- **Apr 1** - Opened PR [#12923](https://github.com/traefik/traefik/pull/12923) in [traefik/traefik](https://github.com/traefik/traefik): Downgrade inspect error to debug for removed containers
+- **Apr 1** - Opened PR [#12922](https://github.com/traefik/traefik/pull/12922) in [traefik/traefik](https://github.com/traefik/traefik): Make SameSite cookie value case-insensitive
 - **Apr 1** - Starred [JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent)
-- **Apr 1** - Opened PR [#1122](undefined) in [f/prompts.chat](https://github.com/f/prompts.chat): undefined
-- **Apr 1** - Created branch `fix/cli-missing-full-content-param` in [murataslan1/prompts.chat](https://github.com/murataslan1/prompts.chat)
 
 <!-- ACTIVITY_END -->
 
@@ -128,9 +133,9 @@
 
 | Project | PRs | Status |
 |---------|-----|--------|
-| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 25+ | ✅ 7+ Merged |
-| [**milvus-io/milvus**](https://github.com/milvus-io/milvus) | 7 | 🔧 Active |
-| [**traefik/traefik**](https://github.com/traefik/traefik) | 5 | ✅ 1 Merged |
+| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | 34+ | ✅ 7+ Merged |
+| [**milvus-io/milvus**](https://github.com/milvus-io/milvus) | 6 | 🔧 Active |
+| [**traefik/traefik**](https://github.com/traefik/traefik) | 6 | ✅ 2 Merged |
 | [**denoland/std**](https://github.com/denoland/std) | 2 | ✅ Merged |
 | [**schollz/croc**](https://github.com/schollz/croc) | 4 | ✅ 4 Merged |
 | [**dotnet/aspire**](https://github.com/dotnet/aspire) | 1 | ✅ Merged |
@@ -144,14 +149,16 @@
 
 | Project | PRs | Focus |
 |---------|-----|-------|
-| [**langchain-ai/langchainjs**](https://github.com/langchain-ai/langchainjs) | 1 | ✅ DeepSeek R1 |
+| [**vercel/ai**](https://github.com/vercel/ai) | 3 | MCP & Provider Fixes |
+| [**langchain-ai/langchainjs**](https://github.com/langchain-ai/langchainjs) | 2 | ✅ DeepSeek R1 + Atomic Write |
+| [**openai/codex-plugin-cc**](https://github.com/openai/codex-plugin-cc) | 2 | ANSI & Symlink Fixes |
 | [**vercel/next.js**](https://github.com/vercel/next.js) | 1 | Error Messages |
 | [**mindsdb/mindsdb**](https://github.com/mindsdb/mindsdb) | 2 | ✅ S3 Region Fix |
-| [**milvus-io/milvus**](https://github.com/milvus-io/milvus) | 7 | Vector Database |
+| [**milvus-io/milvus**](https://github.com/milvus-io/milvus) | 6 | Vector Database |
 | [**OpenBB-finance/OpenBB**](https://github.com/OpenBB-finance/OpenBB) | 2 | ✅ 1 Merged |
 | [**SigNoz/signoz**](https://github.com/SigNoz/signoz) | 5 | Observability |
 | [**prisma/prisma**](https://github.com/prisma/prisma) | 1 | JSDoc Docs |
-| [**supabase/supabase**](https://github.com/supabase/supabase) | 1 | SvelteKit SSR |
+| [**supabase/supabase**](https://github.com/supabase/supabase) | 1 | OAuth SSR Fix |
 
 </td>
 </tr>
@@ -162,7 +169,8 @@
 
 | Project | PRs | Focus |
 |---------|-----|-------|
-| [**microsoft/vscode**](https://github.com/microsoft/vscode) | 18 | ✅ 5 Merged |
+| [**microsoft/vscode**](https://github.com/microsoft/vscode) | 41 | ✅ 5 Merged |
+| [**pingdotgg/t3code**](https://github.com/pingdotgg/t3code) | 6 | Terminal, Checkpoint, Mobile |
 | [**biomejs/biome**](https://github.com/biomejs/biome) | 2 | Linter Rules |
 | [**withastro/astro**](https://github.com/withastro/astro) | 1 | Prism Fix |
 | [**shadcn-ui/ui**](https://github.com/shadcn-ui/ui) | 1 | Tailwind v4 |
@@ -178,6 +186,7 @@
 
 | Project | PRs | Focus |
 |---------|-----|-------|
+| [**nodejs/node**](https://github.com/nodejs/node) | 2 | test_runner Improvements |
 | [**nuclei-templates**](https://github.com/projectdiscovery/nuclei-templates) | 4 | ✅ Merged |
 | [**greenbone/openvas-scanner**](https://github.com/greenbone/openvas-scanner) | 1 | Credential Validation |
 | [**jj-vcs/jj**](https://github.com/jj-vcs/jj) | 2 | Git Alternative |
@@ -186,6 +195,7 @@
 | [**microsoft/TypeScript**](https://github.com/microsoft/TypeScript) | 1 | JSDoc Completions |
 | [**changesets/changesets**](https://github.com/changesets/changesets) | 1 | ✅ Parser Fix |
 | [**dotnet/aspnetcore**](https://github.com/dotnet/aspnetcore) | 1 | pnpm Windows Fix |
+| [**f/prompts.chat**](https://github.com/f/prompts.chat) | 1 | ✅ CLI Fix Merged |
 
 </td>
 </tr>
