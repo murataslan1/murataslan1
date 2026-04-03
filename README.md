@@ -110,14 +110,15 @@
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
-- **Apr 2** - Commented on PR in [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs): fix atomic write in LocalFileStore
-- **Apr 2** - Commented on PRs in [vercel/ai](https://github.com/vercel/ai): MCP OAuth & error type fixes
+- **Apr 2** - Pushed 0 commits to `main` in [murataslan1/murataslan1.github.io](https://github.com/murataslan1/murataslan1.github.io)
+- **Apr 2** - Pushed 0 commits to `main` in [murataslan1/murataslan1](https://github.com/murataslan1/murataslan1)
+- **Apr 2** - Commented on issue [#10597](https://github.com/langchain-ai/langchainjs/pull/10597#issuecomment-4176288473) in [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs)
+- **Apr 2** - Pushed 0 commits to `fix/local-file-store-atomic-write` in [murataslan1/langchainjs](https://github.com/murataslan1/langchainjs)
+- **Apr 2** - Commented on issue [#14019](https://github.com/vercel/ai/pull/14019#issuecomment-4175001951) in [vercel/ai](https://github.com/vercel/ai)
+- **Apr 2** - Pushed 0 commits to `fix/get-error-message-tostring` in [murataslan1/ai](https://github.com/murataslan1/ai)
 - **Apr 2** - Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)
-- **Apr 1** - Merged PR [#1122](https://github.com/f/prompts.chat/pull/1122) in [f/prompts.chat](https://github.com/f/prompts.chat): fix(cli): add missing full_content param to API URL
-- **Apr 1** - Opened PR [#12924](https://github.com/traefik/traefik/pull/12924) in [traefik/traefik](https://github.com/traefik/traefik): Use float64-safe maximum for Priority in CRD definitions
-- **Apr 1** - Opened PR [#12923](https://github.com/traefik/traefik/pull/12923) in [traefik/traefik](https://github.com/traefik/traefik): Downgrade inspect error to debug for removed containers
-- **Apr 1** - Opened PR [#12922](https://github.com/traefik/traefik/pull/12922) in [traefik/traefik](https://github.com/traefik/traefik): Make SameSite cookie value case-insensitive
-- **Apr 1** - Starred [JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent)
+- **Apr 2** - Commented on issue [#14019](https://github.com/vercel/ai/pull/14019#issuecomment-4174688687) in [vercel/ai](https://github.com/vercel/ai)
+- **Apr 2** - Pushed 0 commits to `fix/get-error-message-tostring` in [murataslan1/ai](https://github.com/murataslan1/ai)
 
 <!-- ACTIVITY_END -->
 
