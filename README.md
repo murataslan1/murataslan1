@@ -110,7 +110,16 @@
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
-- **Apr 30** - Merged PR [#1293](undefined) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code): undefined
+- **May 1** - Commented on issue [#45](https://github.com/mksglu/context-mode/issues/45#issuecomment-4361764115) in [mksglu/context-mode](https://github.com/mksglu/context-mode)
+- **May 1** - Pushed 0 commits to `fix/include-ctx-debug-script-394` in [murataslan1/context-mode](https://github.com/murataslan1/context-mode)
+- **May 1** - Pushed 0 commits to `fix/include-ctx-debug-script-394` in [murataslan1/context-mode](https://github.com/murataslan1/context-mode)
+- **May 1** - Opened PR [#396](undefined) in [mksglu/context-mode](https://github.com/mksglu/context-mode): undefined
+- **May 1** - Created branch `fix/include-ctx-debug-script-394` in [murataslan1/context-mode](https://github.com/murataslan1/context-mode)
+- **May 1** - Commented on issue [#45](https://github.com/mksglu/context-mode/issues/45#issuecomment-4359578490) in [mksglu/context-mode](https://github.com/mksglu/context-mode)
+- **May 1** - Opened issue [#395](https://github.com/mksglu/context-mode/issues/395) in [mksglu/context-mode](https://github.com/mksglu/context-mode): Codex × Windows beta testing — protocol & results
+- **May 1** - Opened issue [#394](https://github.com/mksglu/context-mode/issues/394) in [mksglu/context-mode](https://github.com/mksglu/context-mode): scripts/ctx-debug.sh missing from published context-mode@1.0.103 npm package
+- **May 1** - Commented on issue [#45](https://github.com/mksglu/context-mode/issues/45#issuecomment-4359261530) in [mksglu/context-mode](https://github.com/mksglu/context-mode)
+- **May 1** - Commented on issue [#45](https://github.com/mksglu/context-mode/issues/45#issuecomment-4359190944) in [mksglu/context-mode](https://github.com/mksglu/context-mode)
 
 <!-- ACTIVITY_END -->
 
