@@ -110,8 +110,16 @@
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
-- **May 9** - Commented on issue [#80](https://github.com/gaby/http2/pull/80#issuecomment-4412639521) in [gaby/http2](https://github.com/gaby/http2)
-- **May 9** - Opened issue [#493](https://github.com/mksglu/context-mode/issues/493) in [mksglu/context-mode](https://github.com/mksglu/context-mode): Cloud Coding Agent ignores file-read routing in repo instruction files
+- **May 10** - Commented on issue [#521](https://github.com/mksglu/context-mode/issues/521#issuecomment-4416596604) in [mksglu/context-mode](https://github.com/mksglu/context-mode)
+- **May 10** - Opened issue [#521](https://github.com/mksglu/context-mode/issues/521) in [mksglu/context-mode](https://github.com/mksglu/context-mode): [ctx_stats] Cursor: getProjectDir returns '/' — transcriptsRoot hardcoded to ~/.claude/projects
+- **May 10** - Commented on issue [#515](https://github.com/mksglu/context-mode/pull/515#issuecomment-4416579567) in [mksglu/context-mode](https://github.com/mksglu/context-mode)
+- **May 10** - Opened issue [#520](https://github.com/mksglu/context-mode/issues/520) in [mksglu/context-mode](https://github.com/mksglu/context-mode): Add scoped ctx_purge (session key / explicit project-wide guard)
+- **May 10** - Opened issue [#519](https://github.com/mksglu/context-mode/issues/519) in [mksglu/context-mode](https://github.com/mksglu/context-mode): Clarify ctx_insight: Insight dashboard vs live process introspection
+- **May 10** - Pushed 0 commits to `test/v1.0.118-statusline-bytes` in [murataslan1/context-mode](https://github.com/murataslan1/context-mode)
+- **May 10** - Commented on issue [#515](https://github.com/mksglu/context-mode/pull/515#issuecomment-4416298990) in [mksglu/context-mode](https://github.com/mksglu/context-mode)
+- **May 10** - Pushed 0 commits to `test/v1.0.118-statusline-bytes` in [murataslan1/context-mode](https://github.com/murataslan1/context-mode)
+- **May 10** - Opened PR [#515](undefined) in [mksglu/context-mode](https://github.com/mksglu/context-mode): undefined
+- **May 10** - Created branch `test/v1.0.118-statusline-bytes` in [murataslan1/context-mode](https://github.com/murataslan1/context-mode)
 
 <!-- ACTIVITY_END -->
 
