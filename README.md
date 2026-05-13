@@ -110,8 +110,7 @@
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
-- **May 11** - Commented on issue [#511](https://github.com/mksglu/context-mode/issues/511#issuecomment-4420506106) in [mksglu/context-mode](https://github.com/mksglu/context-mode)
-- **May 11** - Starred [steipete/RepoBar](https://github.com/steipete/RepoBar)
+- **May 12** - Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
 
 <!-- ACTIVITY_END -->
 
