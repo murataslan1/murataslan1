@@ -109,9 +109,6 @@
 
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
-
-- **May 13** - Commented on issue [#509](https://github.com/mksglu/context-mode/pull/509#issuecomment-4445102148) in [mksglu/context-mode](https://github.com/mksglu/context-mode)
-
 <!-- ACTIVITY_END -->
 
 ---
