@@ -110,7 +110,7 @@
 <!-- ACTIVITY_START -->
 <!-- This section is automatically updated daily with recent GitHub activity -->
 
-- **May 24** - Starred [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
+- **May 25** - Starred [blader/humanizer](https://github.com/blader/humanizer)
 
 <!-- ACTIVITY_END -->
 
